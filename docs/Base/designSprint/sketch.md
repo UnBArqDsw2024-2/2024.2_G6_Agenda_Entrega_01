@@ -7,7 +7,7 @@ Cada membro da equipe tem a oportunidade de criar múltiplos esboços, utilizand
 Ao final da fase de Sketch, os participantes compartilham suas propostas com o grupo, discutindo as ideias e escolhendo as mais promissoras para a próxima etapa. Essa abordagem colaborativa e rápida ajuda a evitar a paralisia por análise e a fomentar um ambiente criativo, essencial para o desenvolvimento de soluções inovadoras.
 
 
-#  BENCHMARKING
+#  Benchmarking
 
 <div style="text-align: center;">
     <img src="/Base/designSprint/BENCHMARKING.jpg"  width="850px">

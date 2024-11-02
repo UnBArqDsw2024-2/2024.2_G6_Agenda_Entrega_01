@@ -6,10 +6,10 @@ Outro propósito central dessa fase é a definição do objetivo de Sprint. Esse
 
 Além disso, a fase de "Define" busca identificar métricas de sucesso, ou seja, estabelecer como será possível medir o impacto e a efetividade da solução desenvolvida. Definir essas métricas é importante, pois permite que a equipe saiba se está no caminho certo, podendo ajustar as direções de trabalho caso seja necessário. Essa clareza sobre como medir o sucesso oferece uma base objetiva para a avaliação dos resultados e do impacto do projeto.
 
-## Definição do Problema
+## É-Não É-Faz-Não Faz
 
 <div style="text-align: center;">
-    <img src="/Base/designSprint/definicao_do_problema.jpg"  width="850px">
+    <img src="/Base/designSprint/eh_nao_eh.jpg"  width="850px">
 </div>
 
 ## Success Metrics & Signals
