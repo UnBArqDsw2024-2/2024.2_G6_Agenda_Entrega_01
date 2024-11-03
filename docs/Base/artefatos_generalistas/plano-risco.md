@@ -68,7 +68,10 @@ O Diagrama 1 permite visualizar como estes fatores contribuem para a ineficiênc
 
 <p align="center" > <strong> Diagrama 1:</Strong> Diagrama de Ishkawa - Agenda</font> <gitbr></p>
 
-![Diagrama 1](/docs/assets/Ishkawa-Agenda.png)
+<div style="text-align: center;">
+    <img src="./Base/Assets/artefato_generalista/plano_risco/Ishkawa-Agenda.png"  width="900px">
+</div>
+</center>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Johnny Lopes](https://github.com/JohnnyLopess) & [Hugo Melo](https://github.com/melohugo) & [Gabriel Santos](https://github.com/thegm445), 2024</p></font>
 
@@ -89,7 +92,11 @@ O Diagrama 2 permite visualizar como estas causas se inter-relacionam e impactam
 
 <p align="center" > <strong> Diagrama 1:</Strong> Diagrama de Ishkawa - Agenda</font> <gitbr></p>
 
-![Diagrama 1](/docs/assets/Ishkawa-Equipe.png)
+
+<div style="text-align: center;">
+    <img src="./Base/Assets/artefato_generalista/plano_risco/Ishkawa-Equipe.png"  width="900px">
+</div>
+</center>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Johnny Lopes](https://github.com/JohnnyLopess), 2024</p></font>
 
@@ -102,4 +109,4 @@ O Diagrama 2 permite visualizar como estas causas se inter-relacionam e impactam
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 01/11/2024  | Versão inicial do artefato. | [Johnny Lopes](https://github.com/JohnnyLopess) |03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
-| `1.1` | 03/11/2024  | Adicionando diagramas de ishkawa | [Johnny Lopes](https://github.com/JohnnyLopess) |  |  |
+| `1.1` | 03/11/2024  | Adicionando diagramas de ishkawa | [Johnny Lopes](https://github.com/JohnnyLopess) | 03/11/2024  |  [Bianca Castro](https://github.com/BiancaPatrocinio7)  |
