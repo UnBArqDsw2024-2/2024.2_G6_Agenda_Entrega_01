@@ -1,3 +1,20 @@
+## Introdução
+
+Este documento apresenta os cenários para a aplicação Agenda Online, com base nas personas definidas. Os cenários descrevem as interações dos usuários com a plataforma, explorando diferentes funcionalidades e cenários do dia a dia.
+
+## Metodologia
+
+Os cenários foram elaborados seguindo as seguintes etapas:
+
+1. **Identificação do Objetivo:** Definir o objetivo principal do cenário, ou seja, o que o usuário busca alcançar com a ação.
+2. **Definição do Contexto:** Descrever a situação, o contexto e as necessidades do usuário no cenário.
+3. **Ator Principal:** Identificar o ator principal que protagoniza a ação no cenário.
+4. **Recursos:** Listar os recursos e ferramentas que o usuário utiliza no cenário.
+5. **Episódios:** Descrever os passos que o usuário realiza dentro da aplicação.
+6. **Restrições:**  Identificar as limitações, condicionantes ou requisitos específicos do cenário.
+7. **Resultado Esperado:** Descrever o resultado que o usuário busca alcançar com a ação no cenário.
+
+## Cenários
 
 **Persona 1: Paulo Henrique da Silva (Estudante de Medicina)**
 
