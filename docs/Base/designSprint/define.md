@@ -1,5 +1,7 @@
 # Define
 
+## Introdução
+
 A fase de "Define" é essencial para clarificar o foco do projeto, estabelecendo uma visão clara e coesa do problema e das metas que irão orientar a equipe ao longo da Sprint. Após a intensa coleta e análise de informações na fase anterior, é comum que o problema inicial pareça amplo ou até vago. A fase de definição ajuda a afunilar essas informações, permitindo que a equipe direcione seus esforços ao que realmente importa, garantindo um foco bem delimitado.
 
 Outro propósito central dessa fase é a definição do objetivo de Sprint. Esse objetivo atua como um guia central para toda a equipe, deixando claro o que se espera alcançar ao final do processo. Com o objetivo de Sprint bem definido, a equipe tem uma referência sólida para se manter alinhada e evitar distrações ou desvios no decorrer das próximas etapas.
@@ -11,7 +13,7 @@ Além disso, a fase de "Define" busca identificar métricas de sucesso, ou seja,
 Para iniciar a segunda etapa da Design Sprint, a equipe utilizou a técnica "É-Não É-Faz-Não Faz". Essa técnica foi essencial para definir o escopo e o propósito do produto, ajudando a estabelecer o que ele será e fará, e também o que não será e não fará. Esse exercício proporcionou uma visão alinhada entre os membros da equipe, eliminando ambiguidades e garantindo que todos entendessem os limites e as funcionalidades essenciais do produto desde o início.
 
 <div style="text-align: center;">
-    <img src="/Base/designSprint/eh_nao_eh.jpg"  width="850px">
+    <img src="./Base/Assets/design_sprint/define/eh_nao_eh.jpg"  width="850px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110), [Hugo Queiroz](https://github.com/melohugo) e [Ricardo Augusto](https://github.com/avmricardo), 2024</p></font>
@@ -58,7 +60,7 @@ A equipe escolheu a técnica de Success Metrics & Signals para definir critério
 A equipe utilizou a técnica de Introspecção para refletir sobre as ideias e decisões tomadas até o momento, promovendo uma análise sobre os aspectos do projeto. Essa etapa foi importante porque permitiu que os membros processasse as informações e insights ajudando a identificar perspectivas ou preocupações que poderiam ter passado despercebidas durante as discussões em grupo. A introspecção também ofereceu um momento para avaliar se as direções escolhidas realmente faziam sentido para o objetivo final.
 
 <div style="text-align: center;">
-    <img src="/Base/designSprint/introspeccao.jpg"  width="850px">
+    <img src="./Base/Assets/design_sprint/define/introspeccao.jpg"  width="850px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110), [Hugo Queiroz](https://github.com/melohugo) e [Ricardo Augusto](https://github.com/avmricardo), 2024</p></font>
@@ -99,12 +101,14 @@ A equipe adotou a técnica de Design Principles para definir princípios nortead
 A equipe utilizou a técnica do Golden Path para mapear o "caminho de ouro" da experiência do usuário, ou seja, o fluxo ideal que um usuário seguiria ao interagir com o produto para alcançar seus objetivos de forma simples e eficiente. Essa técnica foi essencial para identificar o percurso central e sem complicações que o usuário deveria seguir, ajudando a equipe a priorizar funcionalidades e garantir uma experiência fluida.
 
 <div style="text-align: center;">
-    <img src="/Base/designSprint/golden_path.jpg"  width="1450px">
+    <img src="./Base/Assets/design_sprint/define/golden_path.jpg"  width="1450px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110) e [Hugo Queiroz](https://github.com/melohugo), 2024</p></font>
 
 ## Requisitos Elicitados
+
+<center>
 
 | ID    | Requisito                                                                              |
 |-------|----------------------------------------------------------------------------------------|
@@ -127,3 +131,12 @@ A equipe utilizou a técnica do Golden Path para mapear o "caminho de ouro" da e
 | REQ17 | Inclusão de feriados nacionais.                                                        |
 | REQ18 | Visualização Kanban ou To-Do List para tarefas diárias.                               |
 | REQ19 | Sincronização com diversos dispositivos (mobile, desktop, web).                        |
+
+</center>
+
+
+## Histórico de Versão
+| Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| `1.0` | 01/11/2024  | Versão inicial do artefato. | [Hugo Queiroz](https://github.com/melohugo) |03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
+| `1.1` | 03/11/2024  | Arrumando caminho das imagens e adicionando histórico| [Bianca Castro](https://github.com/BiancaPatrocinio7) | |   |

@@ -9,8 +9,8 @@
 | -- | -- |
 | 22/1008801  |  Bianca Patrocínio Castro |
 | 22/1022248  |  Carlos Eduardo Mota Alves|
-| 22/1022248  |  Carlos Eduardo Mota Alves|
 | 20/2016266  |  Gariel Marques De Souza|
+| 22/1008060  |  Gabriel Moura Dos Santos|
 | 21/1039312  |  Danilo Carvalho Antunes|
 | 22/1021993  |  Hugo Queiroz Camelo De Melo|
 | 21/1039519  |  João Manoel Barreto Neto|
@@ -40,5 +40,5 @@ Quaisquer outras informações adicionais podem ser descritas nessa seção.
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 03/11/2024  | Versão inicial do artefato. | [Bianca Castro](https://github.com/BiancaPatrocinio7) |  |  |
+| `1.0` | 03/11/2024  | Versão inicial do artefato. | [Bianca Castro](https://github.com/BiancaPatrocinio7) | 03/11/2024 | [Vitor Feijó](https://github.com/vitorfleonardo) |
 
