@@ -46,6 +46,9 @@ Cada etapa inclui um **marco de entrega**, que marca a conclusão das atividades
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Johnny Lopes](https://github.com/JohnnyLopess), 2024</p></font>
 
+## Bibliografia
+> <a id="QT1" href="#anchor_1">1.</a> PROJECT MANAGEMENT INSTITUTE (PMI). Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). 6 ed. Estados Unidos: PMI, 2017.
+
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
