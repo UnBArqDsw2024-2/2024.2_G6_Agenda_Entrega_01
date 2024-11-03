@@ -140,3 +140,8 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 * A plataforma deve oferecer opções de personalização para atender às necessidades de cada usuário.
 * É fundamental garantir a segurança e privacidade das informações dos usuários.
 * A agenda online deve ser compatível com diferentes sistemas operacionais e navegadores.
+
+|Versão|Data|Descrição|Autor(es)|Data de revisão|Revisor(es)|
+|:----:|:----:|:---------:|:-----:|:-----:|:-------:|
+|`1.0` | 03/11/2024 | Criação do documento | [Gabriel Moura](https://github.com/thegm445) | 03/11/2024  |  [Bianca Castro](https://github.com/BiancaPatrocinio7)  |
+|`1.1` | 03/11/2024 | Adição de informação e padronização da estrutura | [Gabriel Souza](https://github.com/GabrielMS00) |   |   |
