@@ -60,7 +60,7 @@ Entre os principais benefícios do Diagrama de Ishikawa estão:
 
 ## Diagrama da Agenda
 
-Como ilustrado no Diagrama 1, a análise das causas de desorganização e dificuldade de gerenciamento do tempo revela seis categorias principais: Método, Mão de Obra, Material, Medida, Meio ambiente e Máquina.
+A seguir, no Diagrama 1, são ilustradas as causas de desorganização e dificuldade de gerenciamento do tempo revela seis categorias principais: Método, Mão de Obra, Material, Medida, Meio ambiente e Máquina.
 
 Os principais problemas identificados incluem, no Método, a falta de organização e priorização; na Mão de Obra, resistência e dificuldade de adaptação dos usuários; no Material, limitações da interface e recursos; na Medida, ausência de métricas e alertas; no Meio ambiente, problemas de conexão e sincronização; e na Máquina, incompatibilidades e problemas de integração.
 
@@ -72,6 +72,27 @@ O Diagrama 1 permite visualizar como estes fatores contribuem para a ineficiênc
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Johnny Lopes](https://github.com/JohnnyLopess) & [Hugo Melo](https://github.com/melohugo) & [Gabriel Santos](https://github.com/thegm445), 2024</p></font>
 
+## Diagrama da Equipe
+
+Abaixo, no Diagrama 2, são representadas as principais causas de problemas no desenvolvimento de projetos, distribuídas em seis categorias fundamentais: Método, Mão de Obra, Material, Medida, Meio ambiente e Máquina.
+
+Os principais desafios identificados incluem:
+
+* **No Método:** falta de definição clara de escopo, prazos mal planejados e falha na priorização de funcionalidades
+* **Na Mão de Obra:** falta de experiência dos desenvolvedores, problemas de comunicação entre equipe e sobrecarga de trabalho
+* **No Material:** documentação técnica insuficiente, orçamento limitado e recursos de teste escassos
+* **Na Medida:** ausência de KPIs e falta de testes de usabilidade
+* **No Meio Ambiente:** mudanças de requisitos por stakeholders e problemas de compatibilidade com legislação
+* **Na Máquina:** escolha inadequada de plataforma e problemas de integração
+
+O Diagrama 2 permite visualizar como estas causas se inter-relacionam e impactam o desenvolvimento do projeto, auxiliando na identificação de pontos críticos que precisam ser endereçados pela gestão do projeto.
+
+<p align="center" > <strong> Diagrama 1:</Strong> Diagrama de Ishkawa - Agenda</font> <gitbr></p>
+
+![Diagrama 1](/docs/assets/Ishkawa-Equipe.png)
+
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Johnny Lopes](https://github.com/JohnnyLopess), 2024</p></font>
+
 ## Bibliografia
 > <a id="QT1" href="#anchor_1">1.</a> PROJECT MANAGEMENT INSTITUTE (PMI). Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). 6 ed. Estados Unidos: PMI, 2017.
 
@@ -80,4 +101,5 @@ O Diagrama 1 permite visualizar como estes fatores contribuem para a ineficiênc
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 01/11/2024  | Versão inicial do artefato. | [Johnny Lopes](https://github.com/JohnnyLopess) |  |  |
+| `1.0` | 01/11/2024  | Versão inicial do artefato. | [Johnny Lopes](https://github.com/JohnnyLopess) |03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
+| `1.1` | 03/11/2024  | Adicionando diagramas de ishkawa | [Johnny Lopes](https://github.com/JohnnyLopess) |  |  |
