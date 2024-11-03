@@ -8,11 +8,17 @@ Além disso, a fase de "Define" busca identificar métricas de sucesso, ou seja,
 
 ## É-Não É-Faz-Não Faz
 
+Para iniciar a segunda etapa da Design Sprint, a equipe utilizou a técnica "É-Não É-Faz-Não Faz". Essa técnica foi essencial para definir o escopo e o propósito do produto, ajudando a estabelecer o que ele será e fará, e também o que não será e não fará. Esse exercício proporcionou uma visão alinhada entre os membros da equipe, eliminando ambiguidades e garantindo que todos entendessem os limites e as funcionalidades essenciais do produto desde o início.
+
 <div style="text-align: center;">
     <img src="/Base/designSprint/eh_nao_eh.jpg"  width="850px">
 </div>
 
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110), [Hugo Queiroz](https://github.com/melohugo) e [Ricardo Augusto](https://github.com/avmricardo), 2024</p></font>
+
 ## Success Metrics & Signals
+
+A equipe escolheu a técnica de Success Metrics & Signals para definir critérios claros de sucesso para o produto, essenciais para avaliar se as soluções em desenvolvimento vão atender aos objetivos definidos. Essa técnica permitiu estabelecer métricas específicas que indicariam o impacto do produto e os sinais que revelariam seu progresso em direção aos resultados esperados.
 
 ## Engajamento
 
@@ -45,14 +51,21 @@ Além disso, a fase de "Define" busca identificar métricas de sucesso, ou seja,
 - Boas avaliações nos sites de avaliação.
 - Feedback positivo nas pesquisas de satisfação.
 
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110) e [Hugo Queiroz](https://github.com/melohugo), 2024</p></font>
 
 ## Introspecção
+
+A equipe utilizou a técnica de Introspecção para refletir sobre as ideias e decisões tomadas até o momento, promovendo uma análise sobre os aspectos do projeto. Essa etapa foi importante porque permitiu que os membros processasse as informações e insights ajudando a identificar perspectivas ou preocupações que poderiam ter passado despercebidas durante as discussões em grupo. A introspecção também ofereceu um momento para avaliar se as direções escolhidas realmente faziam sentido para o objetivo final.
 
 <div style="text-align: center;">
     <img src="/Base/designSprint/introspeccao.jpg"  width="850px">
 </div>
 
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110), [Hugo Queiroz](https://github.com/melohugo) e [Ricardo Augusto](https://github.com/avmricardo), 2024</p></font>
+
 ## Design Principles
+
+A equipe adotou a técnica de Design Principles para definir princípios norteadores que orientassem o desenvolvimento do produto e ajudassem a manter a consistência nas decisões de design. Esses princípios foram estabelecidos com base nas necessidades dos usuários e nos objetivos do projeto, funcionando como diretrizes para garantir que as soluções propostas fossem alinhadas com os valores e propósitos centrais do produto.
 
 1. **Simplicidade e Clareza:**
    - **Interface intuitiva:** Facilidade de navegação e compreensão, livre de elementos desnecessários.
@@ -79,11 +92,17 @@ Além disso, a fase de "Define" busca identificar métricas de sucesso, ou seja,
    - **Minimalismo:** Foco nos elementos essenciais, evitando sobrecarga visual.
    - **Design responsivo:** Ajuste automático da interface para diferentes tamanhos de tela.
 
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110) e [Hugo Queiroz](https://github.com/melohugo), 2024</p></font>
+
 ## Golden Path
+
+A equipe utilizou a técnica do Golden Path para mapear o "caminho de ouro" da experiência do usuário, ou seja, o fluxo ideal que um usuário seguiria ao interagir com o produto para alcançar seus objetivos de forma simples e eficiente. Essa técnica foi essencial para identificar o percurso central e sem complicações que o usuário deveria seguir, ajudando a equipe a priorizar funcionalidades e garantir uma experiência fluida.
 
 <div style="text-align: center;">
     <img src="/Base/designSprint/golden_path.jpg"  width="1450px">
 </div>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110) e [Hugo Queiroz](https://github.com/melohugo), 2024</p></font>
 
 ## Requisitos Elicitados
 

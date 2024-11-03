@@ -16,3 +16,4 @@ Será uma agenda online que permite a criação de tarefas e a marcação de eve
     <img src="/Base/designSprint/rabisco.jpg"  width="850px">
 </div>
 
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110), 2024</p></font>
