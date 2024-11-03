@@ -101,7 +101,7 @@ O Diagrama 2 permite visualizar como estas causas se inter-relacionam e impactam
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Johnny Lopes](https://github.com/JohnnyLopess), 2024</p></font>
 
 ## Bibliografia
-> <a id="QT1" href="#anchor_1">1.</a> PROJECT MANAGEMENT INSTITUTE (PMI). Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). 6 ed. Estados Unidos: PMI, 2017.
+><a id="QT1" href="#anchor_1">1.</a> PROJECT MANAGEMENT INSTITUTE (PMI). Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). 6 ed. Estados Unidos: PMI, 2017.
 
 ><a id="QT2" href="#anchor_2">2.</a> MIRO. O que é um diagrama de Ishikawa? Disponível em: https://miro.com/pt/diagrama/o-que-e-diagrama-ishikawa/. Acesso em: 03 nov. 2024.
 
