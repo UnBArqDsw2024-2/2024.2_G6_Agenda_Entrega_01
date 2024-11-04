@@ -17,3 +17,9 @@ Será uma agenda online que permite a criação de tarefas e a marcação de eve
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110), 2024</p></font>
+
+## Histórico de Versões
+
+|Versão|Data|Descrição|Autor(es)|Data de revisão|Revisor(es)|
+|:----:|:----:|:---------:|:-----:|:-----:|:-------:|
+|`1.0` | 02/11/2024 | Criação do documento e adição das técnicas. | [Hugo Queiroz](https://github.com/melohugo) |   |   |

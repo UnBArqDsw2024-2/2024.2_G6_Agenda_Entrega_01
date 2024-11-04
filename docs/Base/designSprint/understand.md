@@ -8,13 +8,17 @@ Outro aspecto fundamental da fase de entendimento é a exploração do contexto 
 
 ## Brainstorm Inicial
 
+Técnica definida em [Brainstorm](/Base/1.1.DesignSprint.md#Brainstorming)
+
 Na fase inicial da Design Sprint, optamos pelo brainstorming como técnica para garantir que todas as perspectivas da equipe fossem exploradas. Começamos definindo algumas perguntas-chave, que serviram como guias para manter o foco no problema que queríamos resolver. Em seguida, cada pessoa pôde colocar suas sugestões em post-its. Finalizada essa etapa, reunimos as ideias e discutimos os pontos em comum e as sugestões mais inovadoras, formulando uma frase que captasse a essência das ideias propostas. Essa frase orientaria nosso trabalho nas etapas seguintes, servindo como um norte para nossas decisões e garantindo que todos estivessem alinhados quanto ao objetivo da Sprint.
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVLL8NcrQ=/?moveToViewport=-1603,-759,4288,2081&embedId=163659680277" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVLL8NcrQ=/?moveToViewport=-4990,-1281,9058,4397&embedId=611547541029" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Toda a equipe](https://github.com/CADU110), 2024</p></font>
 
 ## How Might We (Como poderíamos)
+
+Técnica definida em [How Might We](/Base/1.1.DesignSprint.md#How-Might-We)
 
 Após o brainstorming inicial, passamos para a técnica do "How Might We" (Como Poderíamos), uma abordagem definida em [How Might We](https://designsprintkit.withgoogle.com/methodology/phase1-understand/hmw-sharing-and-affinity-mapping). A escolha dessa técnica ajudou a transformar as ideias e problemas identificados anteriormente em desafios positivos, focando nas oportunidades em vez das limitações. Com essa abordagem, a equipe pôde reformular as questões levantadas de forma que estimulassem a busca por soluções práticas e criativas, mantendo o otimismo.
 
@@ -26,6 +30,8 @@ Após o brainstorming inicial, passamos para a técnica do "How Might We" (Como 
 
 ## Definição do Problema
 
+Técnica definida em [Definição do Problema](/Base/1.1.DesignSprint.md#framework-de-definição-do-problema)
+
 Com as ideias, problemáticas e oportunidades já mapeadas, a equipe usou o frameworkde definição do problema. Com esse framework, a equipe se concentrou em formular um problema central, identificando quem são as pessoas mais afetadas e analisando o impacto negativo que o problema gera em suas vidas. Por fim, foi definido os benefícios que uma solução eficaz poderia trazer.
 
 <div style="text-align: center;">
@@ -35,6 +41,8 @@ Com as ideias, problemáticas e oportunidades já mapeadas, a equipe usou o fram
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110), [Hugo Queiroz](https://github.com/melohugo) e [Ricardo Augusto](https://github.com/avmricardo), 2024</p></font>
 
 ## Personas e jornadas de usuário
+
+Técnica definida em [Personas e jornadas de usuário](/Base/1.1.DesignSprint.md#Persona-e-jornada-do-usuário)
 
 Com base nas informações levantadas no brainstorming e na definição do problema, a equipe desenvolveu algumas personas e mapeou a jornada de cada uma delas. Esse processo foi fundamental para identificar os potenciais usuários do sistema, permitindo que a equipe aprofundásse a compreensão de suas necessidades, motivações e desafios. Ao criar essas personas, nos esforçamos para imaginar pessoas reais, com características e comportamentos representativos dos usuários que mais seriam beneficiados pela solução. A jornada de usuário para cada persona ajudou a visualizar como essas pessoas interagiriam com o sistema em diferentes etapas.
 
@@ -119,7 +127,9 @@ Com base nas informações levantadas no brainstorming e na definição do probl
 <br>
 
 
-## Mapa de experiencia
+## Mapa de experiência
+
+Técnica definida em [Mapa de experiência](/Base/1.1.DesignSprint.md#Mapa-de-experiência)
 
 Para finalizar a primeira etapa, a equipe criou o mapa de experiência. Essa técnica foi fundamental para desenvolver empatia com os possíveis usuários, permitindo que identificássemos as etapas-chave da interação com o sistema. O mapa destacou as ações que os usuários desejam realizar, seus pensamentos, emoções, pontos de contato, além de oportunidades de melhoria e possíveis pontos de dor ou frustração. Com isso, coseguiram uma visão abrangente da jornada do usuário, o que ajudou a orientar o design de maneira a maximizar a satisfação e reduzir barreiras na experiência do usuário.
 
@@ -139,3 +149,8 @@ Para finalizar a primeira etapa, a equipe criou o mapa de experiência. Essa té
 > THIS PERSON DOES NOT EXIST. Disponível em: https://this-person-does-not-exist.com/pt.
 
 
+## Histórico de Versões
+
+|Versão|Data|Descrição|Autor(es)|Data de revisão|Revisor(es)|
+|:----:|:----:|:---------:|:-----:|:-----:|:-------:|
+|`1.0` | 02/11/2024 | Criação do documento e adição das técnicas. | [Hugo Queiroz](https://github.com/melohugo) |   |   |
