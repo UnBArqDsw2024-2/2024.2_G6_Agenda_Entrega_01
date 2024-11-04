@@ -23,4 +23,5 @@
       - [1.5.1 Termo de Abertura de Projeto](/Base/iniciativas_extras/tap.md)
       - [1.5.2 Heatmap de disponibildiade](/Base/iniciativas_extras/heatmap.md)
       - [1.5.3 Ferramentas](/Base/iniciativas_extras/ferramentas.md)
-
+      - [1.5.4.1 Atas de Reunião](/Base/iniciativas_extras/atas_reuniao/reuniao01.md)
+      - [1.5.4.2 Atas de Reunião](/Base/iniciativas_extras/atas_reuniao/reuniao02.md)
