@@ -22,9 +22,7 @@ Ao final da fase de Prototipação, a equipe terá um modelo tangível que poder
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/vzBUrkmoyP3GhnEIy4eBLN/Agenda-Online?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
-## Validação do Protótipo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cibW5u6JTcA?si=PqNWuSURMGxqRB_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
