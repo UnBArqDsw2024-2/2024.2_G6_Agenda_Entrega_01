@@ -6,9 +6,9 @@ O Rich Picture é uma técnica visual utilizada para representar sistemas comple
 
 ## Rich Pictures Criados
 
-Para o projeto da agenda, foram criados dois Rich Pictures. O primeiro, representado na Imagem 1, foca nos problemas existentes, oferecendo uma visão detalhada das dificuldades e dos pontos críticos do cenário atual. Já o segundo Rich Picture, presente na Imagem 2, tem como objetivo ilustrar a solução proposta, destacando as melhorias e mudanças que resolveriam os problemas identificados. Essa abordagem visual com foco tanto no problema quanto na solução permite uma análise abrangente e fornece uma base sólida para a definição dos requisitos do software.
+Para o projeto da agenda, foram criados dois Rich Pictures. O primeiro, representado na Imagem 1, foca nos problemas existentes, oferecendo uma visão detalhada das dificuldades e dos pontos críticos do cenário atual. Esse, é complementado em uma versão digital, na imagem 2. Já o terceiro Rich Picture, presente na Imagem 3, tem como objetivo ilustrar a solução proposta, destacando as melhorias e mudanças que resolveriam os problemas identificados. Essa abordagem visual com foco tanto no problema quanto na solução permite uma análise abrangente e fornece uma base sólida para a definição dos requisitos do software.
 
-<p align="center" > <strong> Imagem 1:</Strong> Rich Picture 1</font> <gitbr></p>
+<p align="center" > <strong> Imagem 1:</Strong> Rich Picture das dores</font> <gitbr></p>
 
 
 <div style="text-align: center;">
@@ -18,15 +18,24 @@ Para o projeto da agenda, foram criados dois Rich Pictures. O primeiro, represen
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110), 2024</p></font>
 
+<p align="center" > <strong> Imagem 2:</Strong> Complementação digital do Rich Picture 1</font> <gitbr></p>
 
-<p align="center" > <strong> Imagem 2:</Strong> Rich Picture 2</font> <gitbr></p>
+<div style="text-align: center;">
+    <img src="./Base/Assets/artefato_generalista/rich-picture/richpicture1Digital.png"  width="850px">
+</div>
+</center>
+
+<font size="3"><p style="text-align: center"><b>Autores:</b>  [Julia Vitoria](https://github.com/juhvitoria4) e [Yago](https://github.com/yagompassos), 2024</p></font>
+
+
+<p align="center" > <strong> Imagem 3:</Strong> Rich Picture de soluções</font> <gitbr></p>
 
 <div style="text-align: center;">
     <img src="./Base/Assets/artefato_generalista/rich-picture/rich-picture2.png"  width="850px">
 </div>
 </center>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b>  [Ricardo](https://github.com/avmricardo) e [Carlos](https://github.com/CADU110), 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autores:</b>  [Yago](https://github.com/yagompassos) e [Julia Vitoria](https://github.com/juhvitoria4), 2024</p></font>
 
 ## Bibliografia
 
@@ -37,3 +46,5 @@ Para o projeto da agenda, foram criados dois Rich Pictures. O primeiro, represen
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 03/11/2024  | Criação do artefato. | [Ricardo Augusto](https://github.com/avmricardo) | 03/11/2024 | [Carlos Eduardo](https://github.com/CADU110), [Johnny](https://github.com/Johnnylopess) |
 | `1.1` | 03/11/2024  | Acrescentando textos. |  [Bianca Castro](https://github.com/BiancaPatrocinio7) | 03/11/2024 | [Johnny](https://github.com/Johnnylopess) |
+| `1.2` | 04/11/2024  | Adicionando representação digital do Rich Picture 1. |  [Julia Vitoria](https://github.com/juhvitoria4) | 04/11/2024 | [Yago](https://github.com/yagompassos) |
+| `1.3` | 04/11/2024  | Refatoração do richpicture 2. |  [Yago](https://github.com/yagompassos) | 04/11/2024 | [Julia Vitoria](https://github.com/juhvitoria4) |
