@@ -25,6 +25,7 @@ npm i docsify-cli -g
 ```
 
 ### 3. Executando o Projeto Localmente
+
 Para iniciar o site de documentação localmente, utilize o comando abaixo:
 
 ```shell
@@ -36,7 +37,6 @@ Após a execução do comando, o site estará disponível em http://localhost:30
 ## 👥 Contribuidores
 
 <center> 
-  
   <table style="width: 100%;">
   <tr>
     <td align="center"><a href="https://github.com/BiancaPatrocinio7"><img style="border-radius: 50%;" src="https://github.com/BiancaPatrocinio7.png" width="100px;" alt="Imagem de Bianca Patrocínio"/><br /><sub><b>Bianca Castro</b></sub></a></td>
@@ -55,9 +55,8 @@ Após a execução do comando, o site estará disponível em http://localhost:30
     <td align="center"><a href="https://github.com/yagompassos"><img style="border-radius: 50%;" src="https://github.com/yagompassos.png" width="100px;" alt="Imagem de Yago Passos"/><br /><sub><b>Yago Passos</b></sub></a></td>
   </tr>
 </table> 
-
 </center>
 
 ## ©️ Licença
 
-Este projeto está licenciado sob a [Licença MIT](). Consulte o arquivo LICENSE para obter mais informações.
+Este projeto está licenciado sob a [Licença MIT](LICENSE.md). Consulte o arquivo LICENSE para obter mais informações.

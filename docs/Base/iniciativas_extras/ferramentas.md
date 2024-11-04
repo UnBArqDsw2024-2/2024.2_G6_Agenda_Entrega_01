@@ -28,29 +28,30 @@ Nesta seção, destacamos a seleção de ferramentas realizada pelo nosso grupo 
 
 ## Referências Bibliográficas
 
-> <a id="anchor_1" href="#anchor_1">1.</a> GitHub. Disponível em: https://github.com. Acesso em: 28 de mar. 2024.
+> <a id="anchor_1" href="#anchor_1">1.</a> GitHub. Disponível em: [https://github.com](https://github.com). Acesso em: 03 de novembro de 2024.
 
-> <a id="anchor_2" href="#anchor_2">2.</a> Microsoft Teams. Disponível em: https://teams.microsoft.com. Acesso em: 28 de mar. 2024.
+> <a id="anchor_2" href="#anchor_2">2.</a> Microsoft Teams. Disponível em: [https://teams.microsoft.com](https://teams.microsoft.com). Acesso em: 03 de novembro de 2024.
 
-> <a id="anchor_3" href="#anchor_3">3.</a> WhatsApp. Disponível em: https://www.whatsapp.com/?lang=pt_BR. Acesso em: 28 de mar. 2024.
+> <a id="anchor_3" href="#anchor_3">3.</a> WhatsApp. Disponível em: [https://www.whatsapp.com/?lang=pt_BR](https://www.whatsapp.com/?lang=pt_BR). Acesso em: 03 de novembro de 2024.
 
-> <a id="anchor_4" href="#anchor_4">4.</a> Discord. Disponível em: https://discord.com/pt_BR. Acesso em: 28 de mar. 2024.
+> <a id="anchor_4" href="#anchor_4">4.</a> Discord. Disponível em: [https://discord.com/pt_BR](https://discord.com/pt_BR). Acesso em: 03 de novembro de 2024.
 
-> <a id="anchor_5" href="#anchor_5">5.</a> Docsify. Disponível em: https://docsify.js.org/#/. Acesso em: 28 de mar. 2024.
+> <a id="anchor_5" href="#anchor_5">5.</a> Docsify. Disponível em: [https://docsify.js.org/#/](https://docsify.js.org/#/). Acesso em: 03 de novembro de 2024.
 
-> <a id="anchor_6" href="#anchor_6">6.</a> Visual Studio Code. Disponível em: https://code.visualstudio.com/. Acesso em: 28 de mar. 2024.
+> <a id="anchor_6" href="#anchor_6">6.</a> Visual Studio Code. Disponível em: [https://code.visualstudio.com/](https://code.visualstudio.com/). Acesso em: 03 de novembro de 2024.
 
-> <a id="anchor_7" href="#anchor_7">7.</a> Figma. Disponível em: https://www.figma.com/. Acesso em: 28 de mar. 2024.
+> <a id="anchor_7" href="#anchor_7">7.</a> Figma. Disponível em: [https://www.figma.com/](https://www.figma.com/). Acesso em: 03 de novembro de 2024.
 
-> <a id="anchor_8" href="#anchor_8">8.</a> Drawio. Disponível em: https://app.diagrams.net/. Acesso em: 28 de mar. 2024.
+> <a id="anchor_8" href="#anchor_8">8.</a> Drawio. Disponível em: [https://app.diagrams.net/](https://app.diagrams.net/). Acesso em: 03 de novembro de 2024.
 
-> <a id="anchor_9" href="#anchor_9">9.</a> BPMN. Disponível em: https://bpmn.io/. Acesso em: 28 de mar. 2024.
+> <a id="anchor_9" href="#anchor_9">9.</a> BPMN. Disponível em: [https://bpmn.io/](https://bpmn.io/). Acesso em: 03 de novembro de 2024.
 
-> <a id="anchor_10" href="#anchor_10">10.</a> Canva. Disponível em: https://www.canva.com/. Acesso em: 31 de mar. 2024.
+> <a id="anchor_10" href="#anchor_10">10.</a> Canva. Disponível em: [https://www.canva.com/](https://www.canva.com/). Acesso em: 03 de novembro de 2024.
 
-> <a id="anchor_11" href="#anchor_11">11.</a> Google Planilhas. Disponível em: https://www.google.com/intl/pt-BR/sheets/about/. Acesso em: 09 de abr. 2024.
+> <a id="anchor_11" href="#anchor_11">11.</a> Google Planilhas. Disponível em: [https://www.google.com/intl/pt-BR/sheets/about/](https://www.google.com/intl/pt-BR/sheets/about/). Acesso em: 03 de novembro de 2024.
 
-> <a id="anchor_12" href="#anchor_12">12.</a> This Person Doesn't Exist. Disponível em: https://this-person-does-not-exist.com/pt. Acesso em: 09 de abr. 2024.
+> <a id="anchor_12" href="#anchor_12">12.</a> This Person Doesn't Exist. Disponível em: [https://this-person-does-not-exist.com/pt](https://this-person-does-not-exist.com/pt). Acesso em: 03 de novembro de 2024.
+
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |

@@ -8,18 +8,18 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 22/1008801  |  Bianca Patrocínio Castro |
-| 22/1022248  |  Carlos Eduardo Mota Alves|
-| 20/2016266  |  Gariel Marques De Souza|
-| 22/1008060  |  Gabriel Moura Dos Santos|
-| 21/1039312  |  Danilo Carvalho Antunes|
-| 22/1021993  |  Hugo Queiroz Camelo De Melo|
-| 21/1039519  |  João Manoel Barreto Neto|
-| 19/0110066  |  Johnny da Ponte Lope|
-| 21/1031083  |  Julia Vitoria Freire Silva|
-| 19/0094273  |  Paulo Henrique Rossi de Borba|
-| 18/0077899  |  Ricardo Augusto Valle Maciel|
-| 22/1008516  |  Vitor Feijó Leonardo|
-| 20/0049879  |  Yago Milagres Passos|
+| 22/1022248  |  Carlos Eduardo Mota Alves |
+| 20/2016266  |  Gariel Marques De Souza |
+| 22/1008060  |  Gabriel Moura Dos Santos |
+| 21/1039312  |  Danilo Carvalho Antunes |
+| 22/1021993  |  Hugo Queiroz Camelo De Melo |
+| 21/1039519  |  João Manoel Barreto Neto |
+| 19/0110066  |  Johnny da Ponte Lope |
+| 21/1031083  |  Julia Vitoria Freire Silva |
+| 19/0094273  |  Paulo Henrique Rossi de Borba |
+| 18/0077899  |  Ricardo Augusto Valle Maciel |
+| 22/1008516  |  Vitor Feijó Leonardo |
+| 20/0049879  |  Yago Milagres Passos |
 
 
 ## Sobre 
@@ -27,19 +27,17 @@ Uma agenda digital eficiente pode transformar a organização do dia a dia, prom
 
 ## Screenshots da Primeira Entrega
 <div style="text-align: center;">
-    <img src="./Base/Assets/projeto/telaInicial.png"  width="450px">
-    <img src="./Base/Assets/projeto/ideia.png"  width="450px">
+    <img src="./Base/Assets/projeto/telaInicial.png"  alt="imagem da tela de login do protótipo" width="450px">
+    <img src="./Base/Assets/projeto/ideia.png" alt="imagem do brainstorming executado pela equipe" width="450px">
 </div>
 <div style="text-align: center;">
-    <img src="./Base/Assets/projeto/geral.png"  width="450px">
-    <img src="./Base/Assets/projeto/geral2.png"  width="450px">
+    <img src="./Base/Assets/projeto/geral.png"  alt="imagens agrupadas" width="450px">
+    <img src="./Base/Assets/projeto/geral2.png"  alt="imagens agrupadas" width="450px">
 </div>
 <div style="text-align: center;">
-    <img src="./Base/Assets/projeto/geral2.png"  width="450px">
-    <img src="./Base/Assets/projeto/golden.png"  width="450px">
+    <img src="./Base/Assets/projeto/geral2.png"  alt="imagens agrupadas" width="450px">
+    <img src="./Base/Assets/projeto/golden.png"  alt="imagens golden path" width="450px">
 </div>
-
-
 
 ## Há algo a ser executado?
 
