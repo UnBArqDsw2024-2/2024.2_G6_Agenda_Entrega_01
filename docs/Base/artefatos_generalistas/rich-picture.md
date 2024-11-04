@@ -35,7 +35,7 @@ Para o projeto da agenda, foram criados dois Rich Pictures. O primeiro, represen
 </div>
 </center>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b>  [Ricardo](https://github.com/avmricardo) e [Carlos](https://github.com/CADU110), 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autores:</b>  [Yago](https://github.com/yagompassos) e [Julia Vitoria](https://github.com/juhvitoria4), 2024</p></font>
 
 ## Bibliografia
 
@@ -47,3 +47,4 @@ Para o projeto da agenda, foram criados dois Rich Pictures. O primeiro, represen
 | `1.0` | 03/11/2024  | Criação do artefato. | [Ricardo Augusto](https://github.com/avmricardo) | 03/11/2024 | [Carlos Eduardo](https://github.com/CADU110), [Johnny](https://github.com/Johnnylopess) |
 | `1.1` | 03/11/2024  | Acrescentando textos. |  [Bianca Castro](https://github.com/BiancaPatrocinio7) | 03/11/2024 | [Johnny](https://github.com/Johnnylopess) |
 | `1.2` | 04/11/2024  | Adicionando representação digital do Rich Picture 1. |  [Julia Vitoria](https://github.com/juhvitoria4) | 04/11/2024 | [Yago](https://github.com/yagompassos) |
+| `1.3` | 04/11/2024  | Refatoração do richpicture 2. |  [Yago](https://github.com/yagompassos) | 04/11/2024 | [Julia Vitoria](https://github.com/juhvitoria4) |
