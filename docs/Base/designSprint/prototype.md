@@ -12,6 +12,12 @@ Ao final da fase de Prototipação, a equipe terá um modelo tangível que poder
 
 # Protótipo no figma
 
+## Protótipo de média
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/vzBUrkmoyP3GhnEIy4eBLN/Agenda-Online?node-id=2001-2&embed-host=share" allowfullscreen></iframe>
+
+## Protótipo de alta
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/vzBUrkmoyP3GhnEIy4eBLN/Agenda-Online?node-id=7050-1143&node-type=canvas&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&embed-host=share" allowfullscreen></iframe>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/vzBUrkmoyP3GhnEIy4eBLN/Agenda-Online?node-id=0-1&embed-host=share" allowfullscreen></iframe>

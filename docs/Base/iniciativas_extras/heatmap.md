@@ -49,4 +49,4 @@ Após a análise dos resultados obtidos com o heatmap de disponibilidade, foi po
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 24/10/2024  | Versão inicial e preenchimento do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) |  |  |
+| `1.0` | 24/10/2024  | Versão inicial e preenchimento do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) |  04/11/2024  |  [João Barreto](https://github.com/JoaoBarreto03)  |

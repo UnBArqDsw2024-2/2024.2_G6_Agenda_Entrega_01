@@ -22,13 +22,8 @@ Nesta fase, focamos em compreender a problemática, eliciar os requisitos e estr
 
 
 
-
-
-
-
-
     
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 03/11/2024  | Criação do artefato da descrição do projeto. | [Carlos Alves](https://github.com/CADU110) |  |  |
+| `1.0` | 03/11/2024  | Criação do artefato da descrição do projeto. | [Carlos Alves](https://github.com/CADU110) | 04/11/2024|[Johnny Lopes](https://github.com/JohnnyLopess)  |

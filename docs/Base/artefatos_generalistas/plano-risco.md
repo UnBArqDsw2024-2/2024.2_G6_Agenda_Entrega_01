@@ -56,5 +56,5 @@ Cada etapa inclui um **marco de entrega**, que marca a conclusão das atividades
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 01/11/2024  | Versão inicial do artefato. | [Johnny Lopes](https://github.com/JohnnyLopess) | 03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
-| `1.0` | 01/11/2024  | Removendo Diagrama Causa-Efeito. |[Bianca Castro](https://github.com/BiancaPatrocinio7) | 03/11/2024  |  |
+| `1.0` | 01/11/2024  | Removendo Diagrama Causa-Efeito. |[Bianca Castro](https://github.com/BiancaPatrocinio7) | 03/11/2024  | [João Barreto](https://github.com/JoaoBarreto03)  |
 
