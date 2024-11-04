@@ -1,6 +1,6 @@
 # Heatmap
 
-## Introdução 
+## Introdução
 
 Este artefato foi desenvolvido para otimizar a gestão de tempo e facilitar o agendamento de reuniões com a equipe de projeto. Ele coleta as informações de disponibilidade de cada integrante e exibe os dados em um formato visual e intuitivo, utilizando um heatmap de horários. Com base nesses dados, o sistema identifica os melhores horários, destacando um horário principal e uma alternativa secundária para as reuniões, garantindo a máxima disponibilidade da equipe e promovendo a eficiência nas interações.
 
@@ -14,7 +14,7 @@ A tabela apresenta a disponibilidade de horários dos membros da equipe ao longo
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Vitor Feijó](https://github.com/vitorfleonardo), 2024</p></font>
 
-**Legenda da Tabela de Disponibilidade da Equipe**
+### Legenda da Tabela de Disponibilidade da Equipe
 
 - **Verde Escuro** (10 a 13): Alta disponibilidade. Muitos membros estão disponíveis neste horário.
 - **Verde Claro** (7 a 9): Disponibilidade moderada. Um número razoável de membros está disponível.
@@ -32,7 +32,7 @@ Após a análise dos resultados obtidos com o heatmap de disponibilidade, foi po
 
 <center>
 
-| Horário | Dia da semana | Categoria | 
+| Horário | Dia da semana | Categoria |
 | :-: | :-: | :-: |
 | 21:00 |  Quarta-feira | Horário fixo semanal |
 | 21:00 |  Terça-feira | Horário opcional semanal |

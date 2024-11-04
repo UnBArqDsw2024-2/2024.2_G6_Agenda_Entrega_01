@@ -48,7 +48,7 @@ Até o final do semestre 2024.2, pretendemos fazer todas as entregas das etapas 
     <td align="center"><a href="https://github.com/GabrielMS00"><img style="border-radius: 50%;" src="https://github.com/GabrielMS00.png" width="100px;" alt="Imagem de Gabriel Souza"/><br /><sub><b>Gabriel Souza</b></sub></a></td>
     <td align="center"><a href="https://github.com/thegm445"><img style="border-radius: 50%;" src="https://github.com/thegm445.png" width="100px;" alt="Imagem de Gabriel Santos"/><br /><sub><b>Gabriel Santos</b></sub></a></td>
     <td align="center"><a href="https://github.com/JoaoBarreto03"><img style="border-radius: 50%;" src="https://github.com/JoaoBarreto03.png" width="100px;" alt="Imagem de João Barreto"/><br /><sub><b>João Barreto</b></sub></a></td>
-  </tr>   
+  </tr>  
     <td align="center"><a href="https://github.com/Johnnylopess"><img style="border-radius: 50%;" src="https://github.com/Johnnylopess.png" width="100px;" alt="Imagem de Johnny Lopes"/><br /><sub><b>Johnny Lopes</b></sub></a></td>
     <td align="center"><a href="https://github.com/juhvitoria4"><img style="border-radius: 50%;" src="https://github.com/juhvitoria4.png" width="100px;" alt="Imagem de Julia Silva"/><br /><sub><b>Julia Silva</b></sub></a></td>
     <td align="center"><a href="https://github.com/paulohborba"><img style="border-radius: 50%;" src="https://github.com/paulohborba.png" width="100px;" alt="Imagem de Paulo Borba"/><br /><sub><b>Paulo Borba</b></sub></a></td>
@@ -86,12 +86,12 @@ Até o final do semestre 2024.2, pretendemos fazer todas as entregas das etapas 
 
 <center>
 
-| Etapa | Marcos | Prazo final | 
+| Etapa | Marcos | Prazo final |
 | :-: | :-: | :-: |
-| Etapa 1 |  Entrega - DSW (base) | 04/11/2024 | 
-| Etapa 2 |  Entrega - DSW (modelagem) | 29/11/2024 | 
-| Etapa 3 |  Entrega - DSW (Padrões de Projeto) | 06/01/2025 | 
-| Etapa 4 |  Entrega Arq&Reutilização | 03/02/2025 | 
+| Etapa 1 |  Entrega - DSW (base) | 04/11/2024 |
+| Etapa 2 |  Entrega - DSW (modelagem) | 29/11/2024 |
+| Etapa 3 |  Entrega - DSW (Padrões de Projeto) | 06/01/2025 |
+| Etapa 4 |  Entrega Arq&Reutilização | 03/02/2025 |
 
 </center>
 
@@ -103,7 +103,8 @@ O semestre de 2024.2 tem início em 14 de outubro de 2024 e encerra-se 22 de fev
 
 ## Bibliografia
 
-> <a id="#anchor_1">1.</a> PROJECT MANAGEMENT INSTITUTE (PMI). Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). 6 ed. Estados Unidos: PMI, 2017.
+> <a id="anchor_1">1.</a> PROJECT MANAGEMENT INSTITUTE (PMI). Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). 6 ed. Estados Unidos: PMI, 2017.
+
 
 ## Histórico de Versão
 

@@ -16,7 +16,7 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 6. **Restrições:**  Identificar as limitações, condicionantes ou requisitos específicos do cenário.
 7. **Resultado Esperado:** Descrever o resultado que o usuário busca alcançar com a ação no cenário.
 
-## Cenários
+## Resultados
 
 ### Persona 1: Paulo Henrique da Silva (Estudante de Medicina)
 
@@ -84,7 +84,6 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 | **Restrições**      | Eduardo precisa se lembrar de verificar o cronograma semanalmente para fazer alterações.<br> A agenda deve permitir a edição de informações sobre o caso, incluindo dados sobre o cliente, como endereço, telefone e preferências. |
 | **Resultado Esperado** | Eduardo consegue organizar seu cronograma de trabalho de forma eficiente, garantindo que ele esteja presente em todas as audiências e reuniões com clientes, além de ter acesso a informações importantes.                       |
 
-
 ### Cenário 6: Colaborando com a Equipe
 
 | **Item**            | **Descrição**                                                                                                                                                                                                                       |
@@ -111,7 +110,6 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 | **Restrições**      | Juliana precisa se lembrar de verificar o cronograma semanalmente para fazer alterações e garantir que não tenha conflitos.<br> A agenda deve permitir a edição de informações sobre os clientes, incluindo endereço, telefone e observações sobre as preferências de cada um. |
 | **Resultado Esperado** | Juliana consegue organizar seu cronograma de trabalho de forma eficiente, evitando conflitos de horários e lembrando-se de todos os detalhes importantes de seus clientes.                                                     |
 
-
 ### Cenário 8: Recebendo Lembretes
 
 | **Item**            | **Descrição**                                                                                                                                                                                                                       |
@@ -137,7 +135,6 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 - A plataforma deve oferecer opções de personalização para atender às necessidades de cada usuário.
 - É fundamental garantir a segurança e privacidade das informações dos usuários.
 - A agenda online deve ser compatível com diferentes sistemas operacionais e navegadores.
-
 
 ## Histórico de Versões
 

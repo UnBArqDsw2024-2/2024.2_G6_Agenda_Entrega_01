@@ -34,9 +34,9 @@
 
 ## Discussões
 
-- A equipe revisou os pontos principais da reunião de segunda-feira. 
+- A equipe revisou os pontos principais da reunião de segunda-feira.
 - Foi realizada uma discussão sobre o Design Sprint, seus objetivos e as etapas de cada entrega.
-- A equipe definiu o artefato generalista para ser produzido por Bianca, Gabriel Souza, Gabriel Moura e Johnny. 
+- A equipe definiu o artefato generalista para ser produzido por Bianca, Gabriel Souza, Gabriel Moura e Johnny.
 - A equipe discutiu sobre as técnicas de elicitação a serem utilizadas e a divisão das tarefas.
 - Foi apresentado o conceito de BPMN (Business Process Model and Notation) e a equipe decidiu utilizar a ferramenta [bpmn.io](https://bpmn.io/) para a modelagem.
 
@@ -50,8 +50,8 @@
 - Técnicas para etapa 05:- Protótipo de baixa e média fidelidade e Storyboard.
 - Técnicas para etapa 06:- Validação com familiares (até domingo 23:59).
 - Artefato generalista:- Bianca, Gabriel Souza, Gabriel Moura e Johnny serão responsáveis pela criação do artefato generalista.
-- Requisitos elicitados:- Rich Picture, 5W2H, Mapa mental, Diagrama Causa-Efeito, Léxico, Planos (risco, custo e tempo) (até domingo 23:59). 
-- Modelagem BPMN:- Barreto, Yago, Julia e Paulo serão responsáveis pela modelagem BPMN. 
+- Requisitos elicitados:- Rich Picture, 5W2H, Mapa mental, Diagrama Causa-Efeito, Léxico, Planos (risco, custo e tempo) (até domingo 23:59).
+- Modelagem BPMN:- Barreto, Yago, Julia e Paulo serão responsáveis pela modelagem BPMN.
 
 ## Ações
 

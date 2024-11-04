@@ -25,7 +25,7 @@ Técnica definida em [How Might We](../1.1.DesignSprint.md#How-Might-We)
 Após o brainstorming inicial, passamos para a técnica do "How Might We" (Como Poderíamos), uma abordagem definida em [How Might We](https://designsprintkit.withgoogle.com/methodology/phase1-understand/hmw-sharing-and-affinity-mapping). A escolha dessa técnica ajudou a transformar as ideias e problemas identificados anteriormente em desafios positivos, focando nas oportunidades em vez das limitações. Com essa abordagem, a equipe pôde reformular as questões levantadas de forma que estimulassem a busca por soluções práticas e criativas, mantendo o otimismo.
 
 <div style="text-align: center;">
-    <img src="../Assets/design_sprint/understand/HMW.jpg"  width="1000px">
+    <img src="../Assets/design_sprint/understand/HMW.jpg"  alt="imagem" width="1000px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110) e [Hugo Queiroz](https://github.com/melohugo), 2024</p></font>
@@ -143,12 +143,12 @@ Para finalizar a primeira etapa, a equipe criou o mapa de experiência. Essa té
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Hugo Queiroz](https://github.com/melohugo), 2024</p></font>
 
-# Bibliografia
+## Bibliografia
 
-><a>1.</a> THIS PERSON DOES NOT EXIST. Disponível em: https://this-person-does-not-exist.com/pt. <br />
-><a>2.</a>The problem of definitions. (n.d.). Disponível em: https://repositorio.ufc.br/bitstream/riufc/24396/1/2017_art_pjfloresjbneto.pdf <br />
+><a>1.</a> THIS PERSON DOES NOT EXIST. Disponível em: [https://this-person-does-not-exist.com/pt](https://this-person-does-not-exist.com/pt). <br />
+><a>2.</a>The problem of definitions. (n.d.). Disponível em: [https://repositorio.ufc.br/bitstream/riufc/24396/1/2017_art_pjfloresjbneto.pdf](https://repositorio.ufc.br/bitstream/riufc/24396/1/2017_art_pjfloresjbneto.pdf) <br />
 ><a>3.</a> PIOVESANA, L. O que é persona? Importância e como criar para a sua empresa. Nuvemshop. Brasil. 2024. Disponível em: [https://www.nuvemshop.com.br/blog/ nuvemcast-persona-jtbd/](https://www.nuvemshop.com.br/blog/nuvemcast-persona-jtbd/). Acesso em 04 abr. 2024. <br />
-><a>4.</a> NIELSEN NORMAN GROUP. Journey mapping 101. Disponível em: https://www.nngroup.com/articles/journey-mapping-101/.
+><a>4.</a> NIELSEN NORMAN GROUP. Journey mapping 101. Disponível em: [https://www.nngroup.com/articles/journey-mapping-101/](https://www.nngroup.com/articles/journey-mapping-101/).
 
 ## Histórico de Versão
 

@@ -22,7 +22,7 @@
 | 22/1008516  |  Vitor Feijó Leonardo |
 | 20/0049879  |  Yago Milagres Passos |
 
-## Sobre 
+## Sobre
 
 Uma agenda digital eficiente pode transformar a organização do dia a dia, promovendo produtividade e melhorando a gestão de compromissos. Ferramentas como o [Google Calendar](https://calendar.google.com), que oferece sincronização em tempo real e lembretes personalizados, ajudam os usuários a manterem-se organizados em diferentes dispositivos. Outros exemplos incluem o [Trello](https://trello.com), que utiliza uma interface visual intuitiva com funcionalidade de arrastar e soltar para organizar tarefas e projetos, e o [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams), que permite integrar agendas e eventos para facilitar a colaboração em equipes. Essas referências mostram como a integração e a personalização são essenciais para uma agenda que atenda bem às expectativas dos usuários.
 
@@ -47,7 +47,7 @@ Uma agenda digital eficiente pode transformar a organização do dia a dia, prom
 
 (X) NÃO
 
-## Informações Complementares 
+## Informações Complementares
 
 Quaisquer outras informações adicionais podem ser descritas nessa seção.
 

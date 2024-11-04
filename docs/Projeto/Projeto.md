@@ -1,4 +1,4 @@
-** Projetos - Período   2024.2
+# Projetos - Período   2024.2
 
 Segue a lista de projetos desse período letivo:
 
@@ -43,4 +43,3 @@ Segue a lista de projetos desse período letivo:
     • Não usar o nome de algo real. A ideia é usar o nome G10_Recomendação mesmo, e apenas se basear em algo conhecido para fins de identificar público-alvo, principais funcionalidades, dentre outros detalhes.
     
 OBS: Caso existam novos matriculados na disciplina, acima de 130 alunos, novos projetos serão propostos pela professora. Portanto, nesses casos, conversar com a professora na época.
-

@@ -35,6 +35,6 @@ Este Código de Conduta se aplica tanto nos espaços do projeto quanto em espaç
 
 ## Aplicação
 
-Casos de comportamento abusivo, de assédio ou outro comportamento inaceitável podem ser reportados à equipe do projeto pelo e-mail: 221008516@aluno.unb.br. Todas as queixas serão revisadas e investigadas, resultando em uma resposta considerada necessária e apropriada às circunstâncias. A equipe do projeto é obrigada a manter a confidencialidade em relação ao relator do incidente. Mais detalhes sobre políticas de aplicação específicas podem ser publicadas separadamente.
+Casos de comportamento abusivo, de assédio ou outro comportamento inaceitável podem ser reportados à equipe do projeto pelo e-mail: [221008516@aluno.unb.br](mailto:221008516@aluno.unb.br). Todas as queixas serão revisadas e investigadas, resultando em uma resposta considerada necessária e apropriada às circunstâncias. A equipe do projeto é obrigada a manter a confidencialidade em relação ao relator do incidente. Mais detalhes sobre políticas de aplicação específicas podem ser publicadas separadamente.
 
 Os mantenedores do projeto que não seguirem ou aplicarem o Código de Conduta de boa fé podem enfrentar repercussões temporárias ou permanentes, conforme determinado por outros membros da liderança do projeto.
