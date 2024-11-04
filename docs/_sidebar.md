@@ -18,6 +18,7 @@
         - [1.2.2. Léxicos](/Base/artefatos_generalistas/lexico.md)
         - [1.2.3 Cenários](/Base/artefatos_generalistas/cenarios.md)
         - [1.2.4 Matriz CSD](/Base/artefatos_generalistas/matriz-csd.md)
+        - [1.2.5 Rich Picture](/Base/artefatos_generalistas/rich-picure.md)
     - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
       - [1.3.1. Etapas de Escolha da Metodologia](/Base/Modelagem_BPMN/1.3.1.ProcessoEscolhaMetodologia.md)
       - [1.3.2. Desenvolvimento dos BPMNs](/Base/Modelagem_BPMN/1.3.2.DesenvolvimentoBPMN.md)
