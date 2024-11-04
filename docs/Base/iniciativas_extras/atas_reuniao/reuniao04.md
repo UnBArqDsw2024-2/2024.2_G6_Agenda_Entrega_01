@@ -1,14 +1,14 @@
 # Ata da Terceira Reunião - Arquitetura
 
-### Data: 01 e 02 de novembro de 2024
+## Data: 01 e 02 de novembro de 2024
 
-### Hora de Início: N/A
+## Hora de Início: N/A
 
-### Hora de Término: N/A
+## Hora de Término: N/A
 
-### Local: N/A
+## Local: N/A
 
-### Participantes:
+## Participantes:
 
 - Carlos Eduardo Mota Alves
 - Danilo Carvalho Antunes
@@ -17,22 +17,28 @@
 - Paulo Henrique Rossi de Borba
 - Vitor Feijó Leonardo 
 
-### Pauta:
+## Pauta:
 
 * Aplicação do Crazy8.
 
-### Discussões:
+## Discussões:
 
 * Não houveram discussões.
 
-### Decisões:
+## Decisões:
 
 * Não houveram decisões.
 
-### Ações:
+## Ações:
 
 * Confecção deste artefato está no Miro.
 
-### Observações:
+## Observações:
 
 * Atividade feita em papel.
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| `1.0` | 03/11/2024 | Versão inicial e preenchimento do artefato. | [Gabriel Moura](https://github.com/thegm445) | 03/11/2024 | [Vitor Feijó](https://github.com/vitorfleonardo) |
