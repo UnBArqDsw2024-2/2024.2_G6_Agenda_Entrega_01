@@ -10,7 +10,8 @@ Ao estruturar as informações nessas três categorias, a Matriz CSD promove um 
 
 Esta Matriz CSD foi criada a partir das discussões e insights obtidos durante a fase inicial de planejamento do projeto. A matriz organiza as informações coletadas em três categorias distintas:
 
-# Matriz CSD
+
+<center>
 
 | Certezas                                                                                                                                              | Suposições                                                                                                                           | Dúvidas                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -21,6 +22,7 @@ Esta Matriz CSD foi criada a partir das discussões e insights obtidos durante a
 |A possibilidade de acessar a agenda em múltiplos dispositivos: Muitos usuários esperam sincronização em tempo real para acessar a agenda no celular, tablet e computador. | Supondo que a integração com redes sociais permite melhor gerenciamento de eventos pessoais: Acreditamos que conectar a agenda com plataformas de redes sociais, como Facebook, ajudaria a sincronizar eventos, lives, lançamentos e lembretes pessoais. | Qual é o intervalo de tempo ideal para as notificações?: Não sabemos qual o tempo de antecedência que melhor se adapta à rotina dos usuários (ex.: 5 minutos, 1 hora ou 1 dia antes do evento). |
 | Usuários valorizam a organização visual e a categorização de compromissos: Visualizar compromissos por categorias, como trabalho e pessoal, ajuda na priorização e evita sobrecarga de informações. | Supomos que a capacidade de rastrear o histórico de compromissos melhora a gestão de tempo: Acreditamos que visualizar o histórico dos compromissos anteriores ajudará os usuários a identificar padrões de uso do tempo e melhorar a organização futura. | Como definir as preferências de cada usuário sem c﻿omplicar o processo de configuração?: Precisamos entender até que ponto é intuitivo para o usuário definir suas preferências ao iniciar o uso da agenda.  |
 
+</center>
 
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Vitor Feijó Leonardo](https://github.com/vitorfleonardo), 2024</p></font>
@@ -38,4 +40,4 @@ Essa estrutura ajuda a equipe a visualizar as áreas em que já existe confianç
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 03/11/2024  | Criação do artefato para a matriz csd. | [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes) |  |  |
+| `1.0` | 03/11/2024  | Criação do artefato para a matriz csd. | [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes) |  03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
