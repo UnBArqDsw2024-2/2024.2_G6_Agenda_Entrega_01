@@ -73,4 +73,4 @@ Para finalizar a fase do sketch a equipe usou o Crazy 8's como parte do processo
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 01/11/2024  | Versão inicial do artefato. | [Hugo Queiroz](https://github.com/melohugo) |03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
-| `1.1` | 03/11/2024  | Arrumando caminho das imagens, bibliografia e adicionando histórico | [Bianca Castro](https://github.com/BiancaPatrocinio7) | |   |
+| `1.1` | 03/11/2024  | Arrumando caminho das imagens, bibliografia e adicionando histórico | [Bianca Castro](https://github.com/BiancaPatrocinio7) | 03/11/2024 | [Hugo Queiroz](https://github.com/melohugo) |

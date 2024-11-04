@@ -142,9 +142,10 @@ A equipe utilizou a técnica do Golden Path para mapear o "caminho de ouro" da e
 | REQ18 | Visualização Kanban ou To-Do List para tarefas diárias.                               |
 | REQ19 | Sincronização com diversos dispositivos (mobile, desktop, web).                        |
 
+Na segunda fase do Design Sprint, chamada "Definição", a equipe utilizou a técnica [5W2H](/Base/artefatos_generalistas/5w2h.md) para esclarecer e definir o problema de forma mais objetiva. Esse método ajudou a responder perguntas fundamentais (o quê, por quê, quem, onde, quando, como e quanto), garantindo uma visão clara e estruturada do desafio a ser resolvido.
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 01/11/2024  | Versão inicial do artefato. | [Hugo Queiroz](https://github.com/melohugo) |03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
-| `1.1` | 03/11/2024  | Arrumando caminho das imagens e adicionando histórico| [Bianca Castro](https://github.com/BiancaPatrocinio7) | |   |
+| `1.1` | 03/11/2024  | Arrumando caminho das imagens e adicionando histórico| [Bianca Castro](https://github.com/BiancaPatrocinio7) | 03/11/2024 | [Hugo Queiroz](https://github.com/melohugo) |
