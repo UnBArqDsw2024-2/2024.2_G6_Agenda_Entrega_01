@@ -13,7 +13,13 @@ Será uma agenda online que permite a criação de tarefas e a marcação de eve
 # Rabisco Framework
 
 <div style="text-align: center;">
-    <img src="/Base/designSprint/rabisco.jpg"  width="850px">
+    <img src="./Base/Assets/design_sprint/decide/rabisco.jpg"  width="850px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110), 2024</p></font>
+
+## Histórico de Versão
+| Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| `1.0` | 01/11/2024  | Versão inicial do artefato. | [Hugo Queiroz](https://github.com/melohugo) |03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
+| `1.1` | 03/11/2024  | Arrumando caminho das imagens e adicionando histórico| [Bianca Castro](https://github.com/BiancaPatrocinio7) | |   |
