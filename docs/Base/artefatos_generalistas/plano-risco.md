@@ -47,7 +47,7 @@ Cada etapa inclui um **marco de entrega**, que marca a conclusão das atividades
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Johnny Lopes](https://github.com/JohnnyLopess), 2024</p></font>
 
-# Diagrama de Ishikawa
+## Diagrama de Ishikawa
 
 O Diagrama de Ishikawa, também conhecido como diagrama de espinha de peixe ou de causa e efeito, é uma ferramenta visual amplamente utilizada para identificar e solucionar problemas de maneira estruturada. Desenvolvido pelo professor Kaoru Ishikawa na década de 1940, o diagrama ajuda a identificar as causas-raiz de um problema, promovendo uma análise detalhada antes da definição de soluções. Esse método evita soluções rápidas e temporárias, incentivando a busca por soluções de longo prazo.
 
@@ -70,7 +70,7 @@ O Diagrama 1 permite visualizar como estes fatores contribuem para a ineficiênc
 <p align="center" > <strong> Diagrama 1:</Strong> Diagrama de Ishkawa - Agenda</font> <gitbr></p>
 
 <div style="text-align: center;">
-    <img src="./Base/Assets/artefato_generalista/plano_risco/Ishkawa-Agenda.png"  width="900px">
+    <img src="./Base/Assets/artefato_generalista/plano_risco/Ishkawa-Agenda.png" alt="imagem" width="900px">
 </div>
 </center>
 
@@ -94,7 +94,7 @@ O Diagrama 2 permite visualizar como estas causas se inter-relacionam e impactam
 <p align="center" > <strong> Diagrama 1:</Strong> Diagrama de Ishkawa - Agenda</font> <gitbr></p>
 
 <div style="text-align: center;">
-    <img src="./Base/Assets/artefato_generalista/plano_risco/Ishkawa-Equipe.png"  width="900px">
+    <img src="./Base/Assets/artefato_generalista/plano_risco/Ishkawa-Equipe.png" alt="imagem" width="900px">
 </div>
 </center>
 

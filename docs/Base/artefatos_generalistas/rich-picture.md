@@ -17,11 +17,10 @@ Foram elaborados 2 rich pictures para o projeto da agenda, o presente na figura 
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110), 2024</p></font>
 
-
 <p align="center" > <strong> Imagem 2:</Strong> Rich Picture 2</font> <gitbr></p>
 
 <div style="text-align: center;">
-    <img src="./Base/Assets/artefato_generalista/rich-picture/rich-picture2.png"  width="850px">
+    <img src="./Base/Assets/artefato_generalista/rich-picture/rich-picture2.png"  alt="imagem" width="850px">
 </div>
 </center>
 

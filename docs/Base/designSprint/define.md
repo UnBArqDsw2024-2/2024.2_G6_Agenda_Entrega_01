@@ -72,7 +72,7 @@ Técnica definida em [Introspecção](../1.1.DesignSprint.md#Introspecção)
 A equipe utilizou a técnica de Introspecção para refletir sobre as ideias e decisões tomadas até o momento, promovendo uma análise sobre os aspectos do projeto. Essa etapa foi importante porque permitiu que os membros processasse as informações e insights ajudando a identificar perspectivas ou preocupações que poderiam ter passado despercebidas durante as discussões em grupo. A introspecção também ofereceu um momento para avaliar se as direções escolhidas realmente faziam sentido para o objetivo final.
 
 <div style="text-align: center;">
-    <img src=".../Assets/design_sprint/define/introspeccao.jpg"  width="850px">
+    <img src=".../Assets/design_sprint/define/introspeccao.jpg"  alt="imagem" width="850px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110), [Hugo Queiroz](https://github.com/melohugo) e [Ricardo Augusto](https://github.com/avmricardo), 2024</p></font>
@@ -117,7 +117,7 @@ Técnica definida em [Golden Path](../1.1.DesignSprint.md#Golden-Path)
 A equipe utilizou a técnica do Golden Path para mapear o "caminho de ouro" da experiência do usuário, ou seja, o fluxo ideal que um usuário seguiria ao interagir com o produto para alcançar seus objetivos de forma simples e eficiente. Essa técnica foi essencial para identificar o percurso central e sem complicações que o usuário deveria seguir, ajudando a equipe a priorizar funcionalidades e garantir uma experiência fluida.
 
 <div style="text-align: center;">
-    <img src=".../Assets/design_sprint/define/golden_path.jpg"  width="1450px">
+    <img src=".../Assets/design_sprint/define/golden_path.jpg" alt="imagem" width="1450px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110) e [Hugo Queiroz](https://github.com/melohugo), 2024</p></font>

@@ -67,15 +67,15 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 | Léxico | Descrição | Sinônimo | Classificação | Relacionamentos | Fonte |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | L21 - Prioridade | Nível de importância ou urgência atribuído a uma tarefa, indicando a ordem em que deve ser realizada. | Nível de Urgência | Estado | Relacionado com: "Tarefa", "Categoria". | [Gabriel Souza](https://github.com/GabrielMS00) |
-| L22 - Data | Dia específico associado a um compromisso ou prazo de uma tarefa. | - | Estado | 	Relacionado com: "Compromisso", "Tarefa", "Horário". | [Gabriel Souza](https://github.com/GabrielMS00) |
+| L22 - Data | Dia específico associado a um compromisso ou prazo de uma tarefa. | - | Estado | Relacionado com: "Compromisso", "Tarefa", "Horário". | [Gabriel Souza](https://github.com/GabrielMS00) |
 | L23 - Horário | Hora específica associada a um compromisso ou notificação, indicando o momento em que deve ocorrer. | Tempo, Momento | Estado | Relacionado com: "Compromisso", "Notificação". | [Gabriel Souza](https://github.com/GabrielMS00) |
 | L24 - Repetição | Configuração que permite que um compromisso ou tarefa se repita automaticamente em intervalos definidos, como diariamente ou semanalmente. | Recorrência | Estado | Relacionado com: "Compromisso", "Tarefa". | [Gabriel Souza](https://github.com/GabrielMS00) |
 | L25 - Status de Conclusão | Condição de uma tarefa que indica se ela está concluída ou pendente. | Estado de Finalização | Estado | Relacionado com: "Tarefa", "Prioridade". | [Gabriel Souza](https://github.com/GabrielMS00) |
 | L26 - Atraso | Estado em que uma tarefa ou compromisso ultrapassa a data ou horário planejado sem ter sido concluído ou atendido. | Em atraso | Estado | Relacionado com: "Tarefa", "Horário", "Data". | [Gabriel Souza](https://github.com/GabrielMS00) |
 | L27 - Disponível | Estado de uma janela de tempo na agenda em que o usuário não possui compromissos ou tarefas agendadas, indicando espaço livre. | Livre | Estado | Relacionado com: "Agenda", "Usuário". | [Gabriel Souza](https://github.com/GabrielMS00) |
 | L28 - Ocupado | Estado que indica que o usuário tem compromissos ou tarefas agendados para uma data ou horário específicos, impossibilitando novas atividades. | Indisponível | Estado | Relacionado com: "Agenda", "Compromisso". | [Gabriel Souza](https://github.com/GabrielMS00) |
-| L29 - Férias | 	Período de tempo em que o usuário está indisponível para compromissos, normalmente devido a um período de descanso planejado. | Pausa, Descanso | Estado | Relacionado com: "Usuário", "Compromisso". | [Gabriel Souza](https://github.com/GabrielMS00) |
-| L30 - Pessoal | Status de uma tarefa ou compromisso que indica ser um item privado e, em alguns casos, visível apenas ao próprio usuário. | Privado | Estado | Relacionado com: "Categoria", "Agenda". | [Gabriel Souza](https://github.com/GabrielMS00) | 
+| L29 - Férias | Período de tempo em que o usuário está indisponível para compromissos, normalmente devido a um período de descanso planejado. | Pausa, Descanso | Estado | Relacionado com: "Usuário", "Compromisso". | [Gabriel Souza](https://github.com/GabrielMS00) |
+| L30 - Pessoal | Status de uma tarefa ou compromisso que indica ser um item privado e, em alguns casos, visível apenas ao próprio usuário. | Privado | Estado | Relacionado com: "Categoria", "Agenda". | [Gabriel Souza](https://github.com/GabrielMS00) |
 
 <div style="text-align: center">
 <p><b>Tabela 4:</b> Léxicos com classificação Estado (Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024).</p>

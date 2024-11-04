@@ -1,8 +1,8 @@
-# Matriz CSD 
+# Matriz CSD
 
 ## Introdução
 
-A Matriz CSD (Certezas, Suposições e Dúvidas) é uma ferramenta estratégica usada para organizar e categorizar o conhecimento atual e as incertezas de um projeto. Esta matriz permite que equipes identifiquem rapidamente os pontos de consenso (Certezas), os aspectos que ainda precisam de comprovação ou validação (Suposições) e as áreas onde há perguntas ou desafios a serem resolvidos (Dúvidas). 
+A Matriz CSD (Certezas, Suposições e Dúvidas) é uma ferramenta estratégica usada para organizar e categorizar o conhecimento atual e as incertezas de um projeto. Esta matriz permite que equipes identifiquem rapidamente os pontos de consenso (Certezas), os aspectos que ainda precisam de comprovação ou validação (Suposições) e as áreas onde há perguntas ou desafios a serem resolvidos (Dúvidas).
 
 Ao estruturar as informações nessas três categorias, a Matriz CSD promove um entendimento claro e compartilhado entre os membros da equipe, ajuda a identificar prioridades e direciona esforços para a coleta de informações e validações essenciais ao avanço do projeto. É uma metodologia amplamente utilizada em processos de inovação, design thinking e desenvolvimento de produtos para alinhar objetivos e expectativas.
 
