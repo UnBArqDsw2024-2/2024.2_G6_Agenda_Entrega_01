@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](/Projeto/Home.md)
+- [Home](README.md)
 - [Projetos](/Projetos/Projetos.md)
 
 - **Base**
@@ -25,4 +25,3 @@
       - [1.5.1 Termo de Abertura de Projeto](/Base/iniciativas_extras/tap.md)
       - [1.5.2 Heatmap de disponibildiade](/Base/iniciativas_extras/heatmap.md)
       - [1.5.3 Ferramentas](/Base/iniciativas_extras/ferramentas.md)
-
