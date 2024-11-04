@@ -1,6 +1,6 @@
-MIT License
+# MIT License
 
-Copyright (c) 2024 UnBArqDsw2024-2/ 2024.2_G6_Agenda_Entrega_01 
+Copyright (c) 2024 UnBArqDsw2024-2/ 2024.2_G6_Agenda_Entrega_01
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

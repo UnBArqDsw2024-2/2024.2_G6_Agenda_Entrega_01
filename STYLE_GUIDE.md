@@ -8,7 +8,7 @@ Este guia de estilo define práticas recomendadas para garantir consistência e 
 - Use subtítulos em ordem (##, ###, etc.) para organizar o conteúdo de maneira hierárquica;
 - Inclua uma breve introdução, bibliografia e histório de versão para cada artefato.
 
-### Exemplos
+### Exemplo 01
 
 ```
 # Título da Página
@@ -35,6 +35,8 @@ Breve introdução.
 - Use listas ordenadas (1., 2., etc.) para instruções sequenciais.
 - Mantenha a consistência no uso de - ou * para listas não ordenadas.
 
+### Exemplo 02
+
 ```
 - Item da lista
   - Subitem da lista
@@ -50,7 +52,7 @@ Breve introdução.
 - Sempre que possível, adicione links internos para outras partes da documentação.
 - Links externos devem ser abertos em uma nova aba, quando possível.
 
-### Exemplo
+### Exemplo 03
 
 ```
 Veja a [documentação oficial](https://example.com) para mais detalhes.
@@ -62,7 +64,7 @@ Veja a [documentação oficial](https://example.com) para mais detalhes.
 - Todas as imagens devem ter texto alternativo (alt) descritivo.
 - Imagens grandes devem ser redimensionadas para evitar que ocupem muito espaço.
 
-### Exemplo
+### Exemplo 04
 
 ```
 ![Diagrama do processo](Assets/pastacorrespondente/image.png)
@@ -74,7 +76,7 @@ Veja a [documentação oficial](https://example.com) para mais detalhes.
 - Alinhe as colunas para melhorar a legibilidade do código fonte.
 - Evite tabelas muito largas; quebre informações longas em várias linhas se necessário.
 
-### Exemplo
+### Exemplo 05
 
 | Parâmetro | Descrição              | Tipo   |
 |-----------|------------------------|--------|
