@@ -1,4 +1,6 @@
 <!-- docs/_sidebar.md -->
+<!-- markdownlint-disable MD041 -->
+
 
 - [Home](/Projeto/Home.md)
 - [Projetos](/Projetos/Projetos.md)
