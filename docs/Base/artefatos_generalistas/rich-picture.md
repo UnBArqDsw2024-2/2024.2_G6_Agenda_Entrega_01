@@ -35,4 +35,4 @@ Foram elaborados 2 rich pictures para o projeto da agenda, o presente na figura 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 03/11/2024  | Criação do artefato. | [Ricardo Augusto](https://github.com/avmricardo) | 03/11/2024 |  |
+| `1.0` | 03/11/2024  | Criação do artefato. | [Ricardo Augusto](https://github.com/avmricardo) | 03/11/2024 | [Carlos Eduardo](https://github.com/CADU110), [Johnny](https://github.com/Johnnylopess) |
