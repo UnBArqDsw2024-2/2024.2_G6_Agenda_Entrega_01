@@ -24,6 +24,8 @@
     - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
       - [1.3.1. Etapas de Escolha da Metodologia](/Base/Modelagem_BPMN/1.3.1.ProcessoEscolhaMetodologia.md)
       - [1.3.2. Desenvolvimento dos BPMNs](/Base/Modelagem_BPMN/1.3.2.DesenvolvimentoBPMN.md)
+      - [1.3.3. Fluxo de uso](/Base/Modelagem_BPMN/1.3.3.FluxoDeUso.md)
+
     - [1.4. Participações](/Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras](/Base/1.5.IniciativasExtras.md)
       - [1.5.1 Termo de Abertura de Projeto](/Base/iniciativas_extras/tap.md)
