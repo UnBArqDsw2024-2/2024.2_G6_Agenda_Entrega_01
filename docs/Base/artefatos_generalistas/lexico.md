@@ -31,9 +31,9 @@ Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que s�
 | L05 - Usuário        | Pessoa que utiliza a aplicação para organizar seus compromissos e tarefas. | - | Objeto | Relacionado com: "Compromisso", "Tarefa", "Notificação". | [Gabriel Souza](https://github.com/GabrielMS00) |
 | L06 - Agenda         | Visualização organizada dos compromissos e tarefas ao longo do tempo, exibindo datas e horários. | Calendário, Cronograma | Objeto | Relacionado com: "Compromisso", "Tarefa", "Usuário". | [Gabriel Souza](https://github.com/GabrielMS00) |
 | L07 - Lista de tarefas | Visualização específica que organiza todas as tarefas, permitindo acompanhar o progresso e marcar tarefas concluídas. | To-do list | Objeto | Relacionado com: "Tarefa", "Prioridade", "Status de Conclusão". | [Gabriel Souza](https://github.com/GabrielMS00) |
-| L08 - Evento Recorrente | Compromisso ou tarefa que se repete de acordo com uma frequência definida, como diariamente ou semanalmente. | Repetição | Objeto | Relacionado com: "Compromisso", "Data". | [Gabriel Souza](https://github.com/GabrielMS00) | 
+| L08 - Evento Recorrente | Compromisso ou tarefa que se repete de acordo com uma frequência definida, como diariamente ou semanalmente. | Repetição | Objeto | Relacionado com: "Compromisso", "Data". | [Gabriel Souza](https://github.com/GabrielMS00) |
 | L09 - Notas | Informações adicionais associadas a compromissos ou tarefas, usadas para registrar detalhes importantes ou lembretes adicionais. | Comentário, Anotação | Objeto | Relacionado com: "Compromisso", "Tarefa". | [Gabriel Souza](https://github.com/GabrielMS00) |
-| L10 - Localização | Endereço ou ponto de referência associado a um compromisso, especialmente útil para compromissos presenciais. | Local | Objeto | Relacionado com: "Compromisso", "Agenda". | [Gabriel Souza](https://github.com/GabrielMS00) | 
+| L10 - Localização | Endereço ou ponto de referência associado a um compromisso, especialmente útil para compromissos presenciais. | Local | Objeto | Relacionado com: "Compromisso", "Agenda". | [Gabriel Souza](https://github.com/GabrielMS00) |
 
 <div style="text-align: center">
 <p><b>Tabela 2:</b> Léxicos com classificação Objeto (Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024).</p>
@@ -51,7 +51,7 @@ Os léxicos do tipo verbo representam ações ou operações que os usuários po
 | L14 - Visualizar | Ação de acessar os detalhes de um compromisso ou tarefa, exibindo informações completas para o usuário. | Consultar, Ver | Verbo | Relacionado com: "Compromisso", "Tarefa", "Notificação". | [Gabriel Souza](https://github.com/GabrielMS00) |
 | L15 - Marcar como concluído | Ação de indicar que uma tarefa foi finalizada, atualizando seu estado para refletir que não é mais pendente. | Finalizar, Completar | Verbo | Relacionado com: "Tarefa", "Prioridade". | [Gabriel Souza](https://github.com/GabrielMS00) |
 | L16 - Configurar | Ação de ajustar as preferências de notificação, repetição e outras configurações da agenda conforme as preferências do usuário. | Ajustar, Personalizar | Verbo | Relacionado com: "Notificação", "Repetição", "Usuário". | [Gabriel Souza](https://github.com/GabrielMS00) |
-| L17 - Reagendar | Ação de alterar a data ou horário de um compromisso ou tarefa, mantendo outras informações. | Alterar data, Remarcar | Verbo | Relacionado com: "Compromisso", "Horário", "Data". | [Gabriel Souza](https://github.com/GabrielMS00) | 
+| L17 - Reagendar | Ação de alterar a data ou horário de um compromisso ou tarefa, mantendo outras informações. | Alterar data, Remarcar | Verbo | Relacionado com: "Compromisso", "Horário", "Data". | [Gabriel Souza](https://github.com/GabrielMS00) |
 | L18 - Pesquisar | Ação de buscar compromissos, tarefas ou notas na agenda com base em termos específicos ou filtros. | Buscar, Localizar | Verbo | Relacionado com: "Agenda", "Tarefa", "Categoria". | [Gabriel Souza](https://github.com/GabrielMS00) |
 | L19 - Ordenar | Ação de organizar compromissos ou tarefas por critérios como data, prioridade, ou categoria. | Classificar | Verbo | Relacionado com: "Agenda", "Tarefa", "Prioridade". | [Gabriel Souza](https://github.com/GabrielMS00) |
 | L20 - Sincronizar | Ação de atualizar a agenda com dados de outros dispositivos ou aplicativos para mantê-la consistente e atualizada. | Atualizar | Verbo | Relacionado com: "Agenda", "Usuário". | [Gabriel Souza](https://github.com/GabrielMS00) |
@@ -64,8 +64,8 @@ Os léxicos do tipo verbo representam ações ou operações que os usuários po
 
 Os léxicos do tipo estado referem-se às condições, situações ou configurações específicas que podem ocorrer dentro da aplicação.  Esses estados representam diversos cenários em que o usuário ou o sistema pode se encontrar durante a interação com o sistema. Na Tabela 4, é possível verificar os principais léxicos classificados como estados que foram identificados.
 
-| Léxico           | Descrição             | Sinônimo             | Classificação       | Relacionamentos              | Fonte              |
-| ---------------- | --------------------- | -------------------- | ------------------- | ---------------------------- | ------------------ |
+| Léxico | Descrição | Sinônimo | Classificação | Relacionamentos | Fonte |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | L21 - Prioridade | Nível de importância ou urgência atribuído a uma tarefa, indicando a ordem em que deve ser realizada. | Nível de Urgência | Estado | Relacionado com: "Tarefa", "Categoria". | [Gabriel Souza](https://github.com/GabrielMS00) |
 | L22 - Data | Dia específico associado a um compromisso ou prazo de uma tarefa. | - | Estado | 	Relacionado com: "Compromisso", "Tarefa", "Horário". | [Gabriel Souza](https://github.com/GabrielMS00) |
 | L23 - Horário | Hora específica associada a um compromisso ou notificação, indicando o momento em que deve ocorrer. | Tempo, Momento | Estado | Relacionado com: "Compromisso", "Notificação". | [Gabriel Souza](https://github.com/GabrielMS00) |

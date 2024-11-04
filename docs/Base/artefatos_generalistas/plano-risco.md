@@ -7,6 +7,7 @@ O Plano de Gerenciamento de Riscos e Tempo do projeto de Arquitetura de Software
 Ao abordar de forma proativa os riscos associados ao projeto, garantimos que as atividades de cada etapa possam ser cumpridas dentro do cronograma planejado e com a qualidade esperada. Além disso, o plano assegura que a equipe esteja preparada para lidar com imprevistos que possam surgir durante o desenvolvimento. As ações de mitigação aqui descritas buscam assegurar que o projeto seja concluído com sucesso, atendendo aos requisitos acadêmicos e superando as expectativas da avaliação final.
 
 ## Tabela de Gerenciamento de Risco
+
 A tabela de riscos identifica e organiza os principais desafios que podem afetar o projeto de Arquitetura de Software. Cada risco é classificado por sua **probabilidade**, **impacto** e **prioridade**, ajudando a equipe a focar nos riscos mais críticos. Para cada risco, foi definido um plano de ação com medidas específicas e um responsável para execução, garantindo que a equipe esteja preparada para minimizar qualquer impacto negativo e assegurar o cumprimento dos objetivos do projeto dentro dos prazos definidos.
 
 <p align="center" > <strong> Tabela 1:</Strong> Plano de Risco</font> <gitbr></p>
@@ -92,7 +93,6 @@ O Diagrama 2 permite visualizar como estas causas se inter-relacionam e impactam
 
 <p align="center" > <strong> Diagrama 1:</Strong> Diagrama de Ishkawa - Agenda</font> <gitbr></p>
 
-
 <div style="text-align: center;">
     <img src="./Base/Assets/artefato_generalista/plano_risco/Ishkawa-Equipe.png"  width="900px">
 </div>
@@ -101,11 +101,12 @@ O Diagrama 2 permite visualizar como estas causas se inter-relacionam e impactam
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Johnny Lopes](https://github.com/JohnnyLopess), 2024</p></font>
 
 ## Bibliografia
-><a id="QT1" href="#anchor_1">1.</a> PROJECT MANAGEMENT INSTITUTE (PMI). Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). 6 ed. Estados Unidos: PMI, 2017.
 
-><a id="QT2" href="#anchor_2">2.</a> MIRO. O que é um diagrama de Ishikawa? Disponível em: https://miro.com/pt/diagrama/o-que-e-diagrama-ishikawa/. Acesso em: 03 nov. 2024.
+><a>1.</a> PROJECT MANAGEMENT INSTITUTE (PMI). Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). 6 ed. Estados Unidos: PMI, 2017. <br />
+><a>2.</a> MIRO. O que é um diagrama de Ishikawa? Disponível em: [https://miro.com/pt/diagrama/o-que-e-diagrama-ishikawa/](https://miro.com/pt/diagrama/o-que-e-diagrama-ishikawa/). Acesso em: 03 nov. 2024.
 
 ## Histórico de Versão
+
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 01/11/2024  | Versão inicial do artefato. | [Johnny Lopes](https://github.com/JohnnyLopess) |03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |

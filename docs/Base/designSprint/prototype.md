@@ -1,4 +1,4 @@
-# Prototype 
+# Prototype
 
 ## Introdução
 
@@ -11,14 +11,8 @@ O protótipo deve ser suficientemente realista para que os usuários possam inte
 Ao final da fase de Prototipação, a equipe terá um modelo tangível que poderá ser utilizado na próxima etapa do Design Sprint, que é o teste com usuários, permitindo validar as soluções propostas e coletar insights diretos do público-alvo.
 
 ## Histórico de Versão
+
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 01/11/2024  | Versão inicial do artefato. | [Hugo Queiroz](https://github.com/melohugo) |03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
 | `1.1` | 03/11/2024  | Adicionando histórico| [Bianca Castro](https://github.com/BiancaPatrocinio7) | |   |
-
-
-## Histórico de Versões
-
-|Versão|Data|Descrição|Autor(es)|Data de revisão|Revisor(es)|
-|:----:|:----:|:---------:|:-----:|:-----:|:-------:|
-|`1.0` | 03/11/2024 | Criação do documento. | [Hugo Queiroz](https://github.com/melohugo) |   |   |

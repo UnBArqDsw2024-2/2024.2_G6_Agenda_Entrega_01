@@ -6,10 +6,9 @@ A Matriz CSD (Certezas, Suposições e Dúvidas) é uma ferramenta estratégica 
 
 Ao estruturar as informações nessas três categorias, a Matriz CSD promove um entendimento claro e compartilhado entre os membros da equipe, ajuda a identificar prioridades e direciona esforços para a coleta de informações e validações essenciais ao avanço do projeto. É uma metodologia amplamente utilizada em processos de inovação, design thinking e desenvolvimento de produtos para alinhar objetivos e expectativas.
 
-## Matriz CSD
+## Resultados
 
 Esta Matriz CSD foi criada a partir das discussões e insights obtidos durante a fase inicial de planejamento do projeto. A matriz organiza as informações coletadas em três categorias distintas:
-
 
 <center>
 
@@ -24,7 +23,6 @@ Esta Matriz CSD foi criada a partir das discussões e insights obtidos durante a
 
 </center>
 
-
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Vitor Feijó Leonardo](https://github.com/vitorfleonardo), 2024</p></font>
 
 - **Certezas**: itens que a equipe considera fatos estabelecidos e que servirão como base para as decisões do projeto.
@@ -38,6 +36,7 @@ Essa estrutura ajuda a equipe a visualizar as áreas em que já existe confianç
 - Design Thinking: Integrating Innovation, Customer Experience, and Brand Value - Thomas Lockwood. Disponível em [Google Scholar](https://scholar.google.com/).
 
 ## Histórico de Versão
+
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 03/11/2024  | Criação do artefato para a matriz csd. | [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes) |  03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |

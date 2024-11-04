@@ -8,7 +8,7 @@
 
 ## Local: Sala de AUla
 
-## Participantes:
+## Participantes
 
 - Bianca Patrocínio Castro
 - Carlos Eduardo Mota Alves
@@ -24,23 +24,23 @@
 - Vitor Feijó Leonardo
 - Yago Milagres Passos
 
-## Pauta:
+## Pauta
 
 - Finalização das Fases 1 e 2 da primeira entrega.
 
-## Discussões:
+## Discussões
 
 - Não houveram discussões, reunião inteiramente prática.
 
-## Decisões:
+## Decisões
 
 - Não houveram decisões, reunião inteiramente prática.
 
-## Ações:
+## Ações
 
 - Confecção de todos artefatos que estão no Miro.
 
-## Observações:
+## Observações
 
 - Ainda haviam algumas coisas a se fazer, como o protótipo e as atas das reuniões.
 

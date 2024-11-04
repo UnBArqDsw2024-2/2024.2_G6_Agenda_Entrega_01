@@ -37,7 +37,7 @@ Técnica definida em [Definição do Problema](../1.1.DesignSprint.md#framework-
 Com as ideias, problemáticas e oportunidades já mapeadas, a equipe usou o frameworkde definição do problema. Com esse framework, a equipe se concentrou em formular um problema central, identificando quem são as pessoas mais afetadas e analisando o impacto negativo que o problema gera em suas vidas. Por fim, foi definido os benefícios que uma solução eficaz poderia trazer.
 
 <div style="text-align: center;">
-    <img src="../Assets/design_sprint/understand/definicao_do_problema.jpg"  width="750px">
+    <img src="../Assets/design_sprint/understand/definicao_do_problema.jpg" alt="imagem de definição do problema"  width="750px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110), [Hugo Queiroz](https://github.com/melohugo) e [Ricardo Augusto](https://github.com/avmricardo), 2024</p></font>
@@ -55,13 +55,13 @@ Com base nas informações levantadas no brainstorming e na definição do probl
 <br>
 
 <div style="text-align: center;">
-    <img src="../Assets/design_sprint/understand/persona01.jpg"  width="850px">
+    <img src="../Assets/design_sprint/understand/persona01.jpg"  alt="imagem" width="850px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110) e [Hugo Queiroz](https://github.com/melohugo), 2024</p></font>
 
 <div style="text-align: center;">
-    <img src="../Assets/design_sprint/understand/jornada01.jpg"  width="1250px">
+    <img src="../Assets/design_sprint/understand/jornada01.jpg" alt="imagem" width="1250px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) e [Vitor Feijó](https://github.com/vitorfleonardo), 2024</p></font>
@@ -73,13 +73,13 @@ Com base nas informações levantadas no brainstorming e na definição do probl
 <br>
 
 <div style="text-align: center;">
-    <img src="../Assets/design_sprint/understand/persona02.jpg"  width="850px">
+    <img src="../Assets/design_sprint/understand/persona02.jpg" alt="imagem" width="850px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) e [Vitor Feijó](https://github.com/vitorfleonardo), 2024</p></font>
 
 <div style="text-align: center;">
-    <img src="../Assets/design_sprint/understand/jornada02.jpg"  width="1250px">
+    <img src="../Assets/design_sprint/understand/jornada02.jpg" alt="imagem" width="1250px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) e [Vitor Feijó](https://github.com/vitorfleonardo), 2024</p></font>
@@ -90,15 +90,14 @@ Com base nas informações levantadas no brainstorming e na definição do probl
 
 <br>
 
-
 <div style="text-align: center;">
-    <img src="../Assets/design_sprint/understand/persona03.jpg"  width="850px">
+    <img src="../Assets/design_sprint/understand/persona03.jpg" alt="imagem" width="850px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110) e [Hugo Queiroz](https://github.com/melohugo), 2024</p></font>
 
 <div style="text-align: center;">
-    <img src="../Assets/design_sprint/understand/jornada03.jpg"  width="1250px">
+    <img src="../Assets/design_sprint/understand/jornada03.jpg" alt="imagem" width="1250px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) e [Vitor Feijó](https://github.com/vitorfleonardo), 2024</p></font>
@@ -109,15 +108,14 @@ Com base nas informações levantadas no brainstorming e na definição do probl
 
 <br>
 
-
 <div style="text-align: center;">
-    <img src="../Assets/design_sprint/understand/persona04.jpg"  width="850px">
+    <img src="../Assets/design_sprint/understand/persona04.jpg" alt="imagem" width="850px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Ricardo Augusto](https://github.com/avmricardo), 2024</p></font>
 
 <div style="text-align: center;">
-    <img src="../Assets/design_sprint/understand/jornada04.jpg"  width="1250px">
+    <img src="../Assets/design_sprint/understand/jornada04.jpg" alt="imagem" width="1250px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) e [Vitor Feijó](https://github.com/vitorfleonardo), 2024</p></font>
@@ -127,7 +125,6 @@ Com base nas informações levantadas no brainstorming e na definição do probl
 ---
 
 <br>
-
 
 ## Mapa de experiência
 
@@ -148,17 +145,13 @@ Para finalizar a primeira etapa, a equipe criou o mapa de experiência. Essa té
 
 # Bibliografia
 
-><a>1.</a> THIS PERSON DOES NOT EXIST. Disponível em: https://this-person-does-not-exist.com/pt.
-
-><a>2.</a>The problem of definitions. (n.d.). Disponível em: https://repositorio.ufc.br/bitstream/riufc/24396/1/2017_art_pjfloresjbneto.pdf
-
-><a>3.</a> PIOVESANA, L. O que é persona? Importância e como criar para a sua empresa. Nuvemshop. Brasil. 2024. Disponível em: [https://www.nuvemshop.com.br/blog/nuvemcast-persona-jtbd/](https://www.nuvemshop.com.br/blog/nuvemcast-persona-jtbd/). Acesso em 04 abr. 2024.
-
+><a>1.</a> THIS PERSON DOES NOT EXIST. Disponível em: https://this-person-does-not-exist.com/pt. <br />
+><a>2.</a>The problem of definitions. (n.d.). Disponível em: https://repositorio.ufc.br/bitstream/riufc/24396/1/2017_art_pjfloresjbneto.pdf <br />
+><a>3.</a> PIOVESANA, L. O que é persona? Importância e como criar para a sua empresa. Nuvemshop. Brasil. 2024. Disponível em: [https://www.nuvemshop.com.br/blog/ nuvemcast-persona-jtbd/](https://www.nuvemshop.com.br/blog/nuvemcast-persona-jtbd/). Acesso em 04 abr. 2024. <br />
 ><a>4.</a> NIELSEN NORMAN GROUP. Journey mapping 101. Disponível em: https://www.nngroup.com/articles/journey-mapping-101/.
 
-
-
 ## Histórico de Versão
+
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 01/11/2024  | Versão inicial do artefato. | [Hugo Queiroz](https://github.com/melohugo) |03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |

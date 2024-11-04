@@ -8,34 +8,34 @@
 
 ## Local: N/A
 
-## Participantes:
+## Participantes
 
 - Carlos Eduardo Mota Alves
 - Danilo Carvalho Antunes
-- Hugo Queiroz Camelo De Melo 
+- Hugo Queiroz Camelo De Melo
 - Johnny da Ponte Lopes
 - Paulo Henrique Rossi de Borba
-- Vitor Feijó Leonardo 
+- Vitor Feijó Leonardo
 
-## Pauta:
+## Pauta
 
-* Aplicação do Crazy8.
+- Aplicação do Crazy8.
 
-## Discussões:
+## Discussões
 
-* Não houveram discussões.
+- Não houveram discussões.
 
-## Decisões:
+## Decisões
 
-* Não houveram decisões.
+- Não houveram decisões.
 
-## Ações:
+## Ações
 
-* Confecção deste artefato está no Miro.
+- Confecção deste artefato está no Miro.
 
-## Observações:
+## Observações
 
-* Atividade feita em papel.
+- Atividade feita em papel.
 
 ## Histórico de Versão
 

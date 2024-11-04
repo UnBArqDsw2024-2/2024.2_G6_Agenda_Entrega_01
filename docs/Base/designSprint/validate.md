@@ -8,8 +8,8 @@ Durante essa fase, os participantes conduzem sessões de teste, onde os usuário
 
 Os insights coletados nesta fase são fundamentais, pois ajudam a equipe a identificar melhorias e ajustes necessários antes de seguir para o desenvolvimento final do produto. A validação não apenas confirma a eficácia das soluções propostas, mas também fortalece a confiança da equipe nas decisões tomadas durante o Design Sprint.
 
-
 ## Histórico de Versão
+
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 01/11/2024  | Versão inicial do artefato. | [Hugo Queiroz](https://github.com/melohugo) |03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |

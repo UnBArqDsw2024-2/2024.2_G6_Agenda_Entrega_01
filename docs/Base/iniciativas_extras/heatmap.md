@@ -24,7 +24,6 @@ A tabela apresenta a disponibilidade de horários dos membros da equipe ao longo
 
 As células representam o total de membros disponíveis em cada faixa horária para cada dia da semana.
 
-
 ## Conclusão
 
 Após a análise dos resultados obtidos com o heatmap de disponibilidade, foi possível definir um horário fixo semanal, comum a todos os integrantes da equipe, garantindo que as reuniões principais ocorram de maneira eficiente e com máxima adesão. Além disso, foi estabelecido um horário secundário e opcional, destinado a ocasiões em que seja necessário realizar mais de uma reunião na semana ou nos casos em que o horário fixo não esteja disponível para todos. Abaixo seguem esses horários discriminados:
@@ -44,9 +43,10 @@ Após a análise dos resultados obtidos com o heatmap de disponibilidade, foi po
 
 ## Bibliografia
 
-> <a id="QT1" href="#anchor_1">1.</a> YI, M. Heatmap: The Complete Guide. Atlassian. Disponível em: https://www.atlassian.com/data/charts/heatmap-complete-guide. Acesso em: 27 mar. 2024.
+> <a id="QT1" href="#anchor_1">1.</a> YI, M. Heatmap: The Complete Guide. Atlassian. Disponível em: [https://www.atlassian.com/data/charts/heatmap-complete-guide](https://www.atlassian.com/data/charts/heatmap-complete-guide). Acesso em: 27 mar. 2024.
 
 ## Histórico de Versão
+
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 24/10/2024  | Versão inicial e preenchimento do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) |  |  |
