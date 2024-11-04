@@ -1,3 +1,5 @@
+# Cenários
+
 ## Introdução
 
 O cenário é uma técnica que ajuda a entender e documentar como o sistema será utilizado em diferentes situações ou contextos. Ele consiste em narrativas detalhadas que descrevem uma sequência de eventos ou interações entre os usuários e o sistema, simulando casos de uso específicos e reais. Essa técnica é útil porque permite que os envolvidos (como analistas, desenvolvedores, e clientes) visualizem e compreendam como o sistema deve se comportar em diferentes situações. Os cenários ajudam a identificar requisitos específicos, incluindo requisitos funcionais e não funcionais também. Dessa forma, este artefato se torna bastante valioso para o sistema de Agenda online.
@@ -14,9 +16,9 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 6. **Restrições:**  Identificar as limitações, condicionantes ou requisitos específicos do cenário.
 7. **Resultado Esperado:** Descrever o resultado que o usuário busca alcançar com a ação no cenário.
 
-## Cenários
+## Resultados
 
-**Persona 1: Paulo Henrique da Silva (Estudante de Medicina)**
+### Persona 1: Paulo Henrique da Silva (Estudante de Medicina)
 
 ### Cenário 1: Agendando Provas e Estudos
 
@@ -30,7 +32,6 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 | **Restrições**      | Paulo deve se lembrar de verificar o cronograma semanalmente para fazer alterações.<br> A agenda deve ser fácil de usar para que ele possa ajustar o cronograma conforme necessário.                                                |
 | **Resultado Esperado** | Paulo consegue organizar seu cronograma de estudos de forma eficiente, visualizando suas tarefas e provas na semana e recebendo lembretes antecipados.                                                                          |
 
-
 ### Cenário 2: Equilibrando Vida Acadêmica e Pessoal
 
 | **Item**            | **Descrição**                                                                                                                                                                                                                       |
@@ -43,8 +44,7 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 | **Restrições**      | O sistema deve permitir que Paulo defina eventos e tarefas como dependentes, garantindo que ele consiga dedicar tempo para seus hobbies sem prejudicar os estudos.<br> Paulo deve se lembrar de verificar o cronograma mensalmente para realizar alterações.                                                |
 | **Resultado Esperado** | Paulo consegue conciliar seus compromissos com a faculdade, as atividades esportivas e o tempo com sua família de forma equilibrada, utilizando a agenda para garantir a organização e lembretes.                                                                          |
 
-
-**Persona 2: Ana Alice Costa (CEO de uma Startup)**
+### Persona 2: Ana Alice Costa (CEO de uma Startup)
 
 ### Cenário 3: Reunindo a Equipe
 
@@ -58,7 +58,6 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 | **Restrições**      | A agenda online deve permitir a criação de eventos e tarefas com links para outros aplicativos.<br> Ana Alice precisa se lembrar de verificar a lista de eventos para garantir que todos os membros da equipe estejam cientes das reuniões.                                                |
 | **Resultado Esperado** | Ana Alice consegue agendar uma reunião com sua equipe de forma eficiente, garantindo que todos os membros estejam cientes da data e hora do evento e com acesso ao link da sala de videoconferência.                                                                          |
 
-
 ### Cenário 4: Priorizando Tarefas
 
 | **Item**            | **Descrição**                                                                                                                                                                                                                       |
@@ -71,9 +70,7 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 | **Restrições**      | A agenda online deve permitir a definição de prioridades para tarefas e eventos.<br> Ana Alice precisa se lembrar de verificar o cronograma semanalmente para fazer alterações.                                                    |
 | **Resultado Esperado** | Ana Alice consegue organizar suas tarefas e eventos de forma eficiente, definindo prioridades e garantindo que os compromissos e projetos mais importantes não sejam esquecidos.                                               |
 
-
-
-**Persona 3: Eduardo Mendes (Advogado)**
+### Persona 3: Eduardo Mendes (Advogado)
 
 ### Cenário 5: Agendando Audiências
 
@@ -87,7 +84,6 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 | **Restrições**      | Eduardo precisa se lembrar de verificar o cronograma semanalmente para fazer alterações.<br> A agenda deve permitir a edição de informações sobre o caso, incluindo dados sobre o cliente, como endereço, telefone e preferências. |
 | **Resultado Esperado** | Eduardo consegue organizar seu cronograma de trabalho de forma eficiente, garantindo que ele esteja presente em todas as audiências e reuniões com clientes, além de ter acesso a informações importantes.                       |
 
-
 ### Cenário 6: Colaborando com a Equipe
 
 | **Item**            | **Descrição**                                                                                                                                                                                                                       |
@@ -100,7 +96,7 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 | **Restrições**      | A agenda online deve permitir o compartilhamento do cronograma com a equipe.<br> Eduardo precisa se lembrar de verificar as atualizações no cronograma da equipe.                                                                  |
 | **Resultado Esperado** | Eduardo consegue compartilhar seu cronograma de trabalho com sua equipe de forma eficiente, garantindo que todos estejam cientes de suas atividades e eventos.                                                                  |
 
-**Persona 4: Juliana Pontes (Diarista)**
+### Persona 4: Juliana Pontes (Diarista)
 
 ### Cenário 7: Agendando Compromissos com Clientes
 
@@ -114,7 +110,6 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 | **Restrições**      | Juliana precisa se lembrar de verificar o cronograma semanalmente para fazer alterações e garantir que não tenha conflitos.<br> A agenda deve permitir a edição de informações sobre os clientes, incluindo endereço, telefone e observações sobre as preferências de cada um. |
 | **Resultado Esperado** | Juliana consegue organizar seu cronograma de trabalho de forma eficiente, evitando conflitos de horários e lembrando-se de todos os detalhes importantes de seus clientes.                                                     |
 
-
 ### Cenário 8: Recebendo Lembretes
 
 | **Item**            | **Descrição**                                                                                                                                                                                                                       |
@@ -127,19 +122,21 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 | **Restrições**      | O sistema deve permitir a personalização das notificações, com opções de escolha de canal (email, notificação no aplicativo) e tempo de antecedência.<br> Juliana precisa se lembrar de configurar as notificações de acordo com suas preferências e verificar o cronograma para confirmar os eventos. |
 | **Resultado Esperado** | Juliana consegue receber lembretes sobre seus compromissos e evitar esquecimentos e atrasos.                                                                                                                                    |
 
-## Recursos e Funcionalidades Extras:
+## Recursos e Funcionalidades Extras
 
-* **Integração com outros aplicativos:** A agenda online pode integrar com outras ferramentas como Google Workspace, Teams e Trello, além de assistentes de voz e inteligência artificial, para agendar compromissos, definir prioridades, criar links de reuniões e enviar notificações programadas.
-* **Visualização de tarefas:** Permite a visualização das atividades do dia em um Kanban, como o Trello.
-* **Compartilhamento:** Permite a opção de compartilhar a agenda com assistentes, colegas, permitindo uma gestão colaborativa de compromissos.
-* **Relatórios e Insights:** Gera relatórios personalizados para visualizar o uso de tempo, como a quantidade de tempo dedicada a cada atividade, e identificar áreas de oportunidade para melhorar a produtividade.
+- **Integração com outros aplicativos:** A agenda online pode integrar com outras ferramentas como Google Workspace, Teams e Trello, além de assistentes de voz e inteligência artificial, para agendar compromissos, definir prioridades, criar links de reuniões e enviar notificações programadas.
+- **Visualização de tarefas:** Permite a visualização das atividades do dia em um Kanban, como o Trello.
+- **Compartilhamento:** Permite a opção de compartilhar a agenda com assistentes, colegas, permitindo uma gestão colaborativa de compromissos.
+- **Relatórios e Insights:** Gera relatórios personalizados para visualizar o uso de tempo, como a quantidade de tempo dedicada a cada atividade, e identificar áreas de oportunidade para melhorar a produtividade.
 
-## Considerações:
+## Considerações
 
-* A agenda online deve ser intuitiva, fácil de usar e acessível em qualquer dispositivo.
-* A plataforma deve oferecer opções de personalização para atender às necessidades de cada usuário.
-* É fundamental garantir a segurança e privacidade das informações dos usuários.
-* A agenda online deve ser compatível com diferentes sistemas operacionais e navegadores.
+- A agenda online deve ser intuitiva, fácil de usar e acessível em qualquer dispositivo.
+- A plataforma deve oferecer opções de personalização para atender às necessidades de cada usuário.
+- É fundamental garantir a segurança e privacidade das informações dos usuários.
+- A agenda online deve ser compatível com diferentes sistemas operacionais e navegadores.
+
+## Histórico de Versões
 
 |Versão|Data|Descrição|Autor(es)|Data de revisão|Revisor(es)|
 |:----:|:----:|:---------:|:-----:|:-----:|:-------:|

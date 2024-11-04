@@ -25,18 +25,18 @@ npm i docsify-cli -g
 ```
 
 ### 3. Executando o Projeto Localmente
+
 Para iniciar o site de documentação localmente, utilize o comando abaixo:
 
 ```shell
 docsify serve ./docs
 ```
 
-Após a execução do comando, o site estará disponível em http://localhost:3000, onde você poderá visualizar e editar a documentação de forma dinâmica.
+Após a execução do comando, o site estará disponível em [http://localhost:3000](http://localhost:3000), onde você poderá visualizar e editar a documentação de forma dinâmica.
 
 ## 👥 Contribuidores
 
-<center> 
-  
+<center>
   <table style="width: 100%;">
   <tr>
     <td align="center"><a href="https://github.com/BiancaPatrocinio7"><img style="border-radius: 50%;" src="https://github.com/BiancaPatrocinio7.png" width="100px;" alt="Imagem de Bianca Patrocínio"/><br /><sub><b>Bianca Castro</b></sub></a></td>
@@ -46,7 +46,7 @@ Após a execução do comando, o site estará disponível em http://localhost:30
     <td align="center"><a href="https://github.com/GabrielMS00"><img style="border-radius: 50%;" src="https://github.com/GabrielMS00.png" width="100px;" alt="Imagem de Gabriel Souza"/><br /><sub><b>Gabriel Souza</b></sub></a></td>
     <td align="center"><a href="https://github.com/thegm445"><img style="border-radius: 50%;" src="https://github.com/thegm445.png" width="100px;" alt="Imagem de Gabriel Santos"/><br /><sub><b>Gabriel Santos</b></sub></a></td>
     <td align="center"><a href="https://github.com/JoaoBarreto03"><img style="border-radius: 50%;" src="https://github.com/JoaoBarreto03.png" width="100px;" alt="Imagem de João Barreto"/><br /><sub><b>João Barreto</b></sub></a></td>
-  </tr>   
+  </tr>
     <td align="center"><a href="https://github.com/Johnnylopess"><img style="border-radius: 50%;" src="https://github.com/Johnnylopess.png" width="100px;" alt="Imagem de Johnny Lopes"/><br /><sub><b>Johnny Lopes</b></sub></a></td>
     <td align="center"><a href="https://github.com/juhvitoria4"><img style="border-radius: 50%;" src="https://github.com/juhvitoria4.png" width="100px;" alt="Imagem de Julia Silva"/><br /><sub><b>Julia Silva</b></sub></a></td>
     <td align="center"><a href="https://github.com/paulohborba"><img style="border-radius: 50%;" src="https://github.com/paulohborba.png" width="100px;" alt="Imagem de Paulo Borba"/><br /><sub><b>Paulo Borba</b></sub></a></td>
@@ -54,10 +54,9 @@ Após a execução do comando, o site estará disponível em http://localhost:30
     <td align="center"><a href="https://github.com/vitorfleonardo"><img style="border-radius: 50%;" src="https://github.com/vitorfleonardo.png" width="100px;" alt="Imagem de Vitor Leonardo"/><br /><sub><b>Vitor Feijó</b></sub></a></td>
     <td align="center"><a href="https://github.com/yagompassos"><img style="border-radius: 50%;" src="https://github.com/yagompassos.png" width="100px;" alt="Imagem de Yago Passos"/><br /><sub><b>Yago Passos</b></sub></a></td>
   </tr>
-</table> 
-
+</table>
 </center>
 
 ## ©️ Licença
 
-Este projeto está licenciado sob a [Licença MIT](). Consulte o arquivo LICENSE para obter mais informações.
+Este projeto está licenciado sob a [Licença MIT](LICENSE.md). Consulte o arquivo LICENSE para obter mais informações.

@@ -1,14 +1,14 @@
 # Ata da Terceira Reunião - Arquitetura
 
-### Data: 01 de novembro de 2024
+## Data: 01 de novembro de 2024
 
-### Hora de Início: 08h
+## Hora de Início: 08h
 
-### Hora de Término: 10h
+## Hora de Término: 10h
 
-### Local: Sala de AUla
+## Local: Sala de AUla
 
-### Participantes:
+## Participantes
 
 - Bianca Patrocínio Castro
 - Carlos Eduardo Mota Alves
@@ -24,22 +24,28 @@
 - Vitor Feijó Leonardo
 - Yago Milagres Passos
 
-### Pauta:
+## Pauta
 
-* Finalização das Fases 1 e 2 da primeira entrega.
+- Finalização das Fases 1 e 2 da primeira entrega.
 
-### Discussões:
+## Discussões
 
-* Não houveram discussões, reunião inteiramente prática.
+- Não houveram discussões, reunião inteiramente prática.
 
-### Decisões:
+## Decisões
 
-* Não houveram decisões, reunião inteiramente prática.
+- Não houveram decisões, reunião inteiramente prática.
 
-### Ações:
+## Ações
 
-* Confecção de todos artefatos que estão no Miro.
+- Confecção de todos artefatos que estão no Miro.
 
-### Observações:
+## Observações
 
-* Ainda haviam algumas coisas a se fazer, como o protótipo e as atas das reuniões.
+- Ainda haviam algumas coisas a se fazer, como o protótipo e as atas das reuniões.
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| `1.0` | 03/11/2024 | Versão inicial e preenchimento do artefato. | [Gabriel Moura](https://github.com/thegm445) | 03/11/2024 | [Vitor Feijó](https://github.com/vitorfleonardo) |

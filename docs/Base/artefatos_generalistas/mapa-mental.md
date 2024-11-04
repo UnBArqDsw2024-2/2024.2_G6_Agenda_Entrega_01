@@ -15,9 +15,8 @@ Este mapa mental foi criado a partir das ideias geradas no brainstorming realiza
 
 <p align="center" > <strong> Imagem 1:</Strong> Mapa Mental - Brainstorming</font> <gitbr></p>
 
-
 <div style="text-align: center;">
-    <img src="./Base/Assets/artefato_generalista/mapa_mental/MapaMental.png"  width="850px">
+    <img src="./Base/Assets/artefato_generalista/mapa_mental/MapaMental.png"  alt="Imagem de mapa mental" width="850px">
 </div>
 </center>
 
@@ -31,9 +30,8 @@ Este mapa mental foi criado a partir das ideias geradas no brainstorming realiza
 
 - Eppler, Martin J. "A comparison between concept maps, mind maps, conceptual diagrams, and visual metaphors as complementary tools for knowledge construction and sharing." 5, no. 3 (2006): 202-210. Disponível em [Google Scholar](https://scholar.google.com/).
 
-
 ## Histórico de Versão
+
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 01/11/2024  | Criação do mapa mental. | [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) |  |  |
-

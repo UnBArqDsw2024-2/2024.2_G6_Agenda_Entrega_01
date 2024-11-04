@@ -6,7 +6,7 @@ O Termo de Abertura do Projeto (TAP) é um documento que autoriza formalmente a 
 
 ## Objetivo SMART
 
-Até o final do semestre 2024.2, pretendemos fazer todas as entregas das etapas do projeto de Arquitetura de Software como parte do curso de Arquitetura de Software na Universidade de Brasília - FCTE. Isso será alcançado através da realização e entrega de todas as etapas mínimas e pelo empenho adicional dos integrantes para exercer a criatividade trazendo mais do que é esperado em cada etapa. O sucesso do projeto será determinado pela entrega final no dia 03 de fevereiro de 2025 e avaliado pela Professora Dr. Milene Serrano. 
+Até o final do semestre 2024.2, pretendemos fazer todas as entregas das etapas do projeto de Arquitetura de Software como parte do curso de Arquitetura de Software na Universidade de Brasília - FCTE. Isso será alcançado através da realização e entrega de todas as etapas mínimas e pelo empenho adicional dos integrantes para exercer a criatividade trazendo mais do que é esperado em cada etapa. O sucesso do projeto será determinado pela entrega final no dia 03 de fevereiro de 2025 e avaliado pela Professora Dr. Milene Serrano.
 
 ## Partes interessadas (Stakeholders)
 
@@ -16,20 +16,20 @@ Até o final do semestre 2024.2, pretendemos fazer todas as entregas das etapas 
 
 | Nome | Externo (S/N) | Relacionamento com o projeto |
 | :-: | :-: | :-: |
-| Bianca Patrocínio Castro | N  | Líder de célula | 
-| Carlos Eduardo Mota Alves | N  | Integrante de Célula | 
-| Hugo Queiroz camelo de melo | N  | Líder de célula | 
-| Danilo Carvalho Antunes | N  | Integrante de Célula | 
-| Gabriel Marques de Souza | N  | Integrante de Célula | 
-| Gabriel Moura dos Santos | N  | Integrante de Célula | 
-| João Manoel Barreto Neto | N  | Líder de célula | 
-| Johnny da Ponte Lopes | N  | Integrante de Célula | 
-| Julia Vitoria Freire Silva | N  | Integrante de Célula| 
-| Milene Serrano | S  | Professora avaliadora do projeto | 
-| Paulo Henrique Rossi de Borba | N  | Integrante de Célula | 
-| Ricardo Augusto Valle Maciel | N  | Integrante de Célula | 
-| Vitor Feijó Leonardo | N  | Gerente | 
-| Yago Milagres Passos | N  | Integrante de Célula | 
+| Bianca Patrocínio Castro | N  | Líder de célula |
+| Carlos Eduardo Mota Alves | N  | Integrante de Célula |
+| Hugo Queiroz camelo de melo | N  | Líder de célula |
+| Danilo Carvalho Antunes | N  | Integrante de Célula |
+| Gabriel Marques de Souza | N  | Integrante de Célula |
+| Gabriel Moura dos Santos | N  | Integrante de Célula |
+| João Manoel Barreto Neto | N  | Líder de célula |
+| Johnny da Ponte Lopes | N  | Integrante de Célula |
+| Julia Vitoria Freire Silva | N  | Integrante de Célula|
+| Milene Serrano | S  | Professora avaliadora do projeto |
+| Paulo Henrique Rossi de Borba | N  | Integrante de Célula |
+| Ricardo Augusto Valle Maciel | N  | Integrante de Célula |
+| Vitor Feijó Leonardo | N  | Gerente |
+| Yago Milagres Passos | N  | Integrante de Célula |
 
 </center>
 
@@ -48,7 +48,7 @@ Até o final do semestre 2024.2, pretendemos fazer todas as entregas das etapas 
     <td align="center"><a href="https://github.com/GabrielMS00"><img style="border-radius: 50%;" src="https://github.com/GabrielMS00.png" width="100px;" alt="Imagem de Gabriel Souza"/><br /><sub><b>Gabriel Souza</b></sub></a></td>
     <td align="center"><a href="https://github.com/thegm445"><img style="border-radius: 50%;" src="https://github.com/thegm445.png" width="100px;" alt="Imagem de Gabriel Santos"/><br /><sub><b>Gabriel Santos</b></sub></a></td>
     <td align="center"><a href="https://github.com/JoaoBarreto03"><img style="border-radius: 50%;" src="https://github.com/JoaoBarreto03.png" width="100px;" alt="Imagem de João Barreto"/><br /><sub><b>João Barreto</b></sub></a></td>
-  </tr>   
+  </tr>  
     <td align="center"><a href="https://github.com/Johnnylopess"><img style="border-radius: 50%;" src="https://github.com/Johnnylopess.png" width="100px;" alt="Imagem de Johnny Lopes"/><br /><sub><b>Johnny Lopes</b></sub></a></td>
     <td align="center"><a href="https://github.com/juhvitoria4"><img style="border-radius: 50%;" src="https://github.com/juhvitoria4.png" width="100px;" alt="Imagem de Julia Silva"/><br /><sub><b>Julia Silva</b></sub></a></td>
     <td align="center"><a href="https://github.com/paulohborba"><img style="border-radius: 50%;" src="https://github.com/paulohborba.png" width="100px;" alt="Imagem de Paulo Borba"/><br /><sub><b>Paulo Borba</b></sub></a></td>
@@ -77,33 +77,36 @@ Até o final do semestre 2024.2, pretendemos fazer todas as entregas das etapas 
 05) Um integrante da equipe pode ficar doente e isso pode afetar o andamento do projeto;<br>
 
 ## Restrições
+
 01) O projeto deve ser finalizado até o dia 03 de fevereiro de 2025<br>
 
-
 ## Marcos do projeto
+
 <p align="center" > <strong> Tabela 2:</Strong> Marcos do projeto</font> <gitbr></p>
 
 <center>
 
-| Etapa | Marcos | Prazo final | 
+| Etapa | Marcos | Prazo final |
 | :-: | :-: | :-: |
-| Etapa 1 |  Entrega - DSW (base) | 04/11/2024 | 
-| Etapa 2 |  Entrega - DSW (modelagem) | 29/11/2024 | 
-| Etapa 3 |  Entrega - DSW (Padrões de Projeto) | 06/01/2025 | 
-| Etapa 4 |  Entrega Arq&Reutilização | 03/02/2025 | 
+| Etapa 1 |  Entrega - DSW (base) | 04/11/2024 |
+| Etapa 2 |  Entrega - DSW (modelagem) | 29/11/2024 |
+| Etapa 3 |  Entrega - DSW (Padrões de Projeto) | 06/01/2025 |
+| Etapa 4 |  Entrega Arq&Reutilização | 03/02/2025 |
 
 </center>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Vitor Feijó](https://github.com/vitorfleonardo), 2024</p></font>
 
-#### Observação
+### Observação
+
 O semestre de 2024.2 tem início em 14 de outubro de 2024 e encerra-se 22 de fevereiro de 2025 devido à greve dos servidores técnicos e docentes da Universidade de Brasília, ocorrida em 2024. É previsto um recesso do dia 20 de dezembro de 2024 até o dia 06 de janeiro de 2025.
 
 ## Bibliografia
 
-> <a id="QT1" href="#anchor_1">1.</a> PROJECT MANAGEMENT INSTITUTE (PMI). Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). 6 ed. Estados Unidos: PMI, 2017.
+> <a id="anchor_1">1.</a> PROJECT MANAGEMENT INSTITUTE (PMI). Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). 6 ed. Estados Unidos: PMI, 2017.
 
 ## Histórico de Versão
+
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 24/10/2024  | Versão inicial e preenchimento do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) |  |  |
