@@ -89,4 +89,4 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 
 |Versão|Data|Descrição|Autor(es)|Data de revisão|Revisor(es)|
 |:----:|:----:|:---------:|:-----:|:-----:|:-------:|
-|`1.0` | 03/11/2024 | Criação do documento e adição dos lexicos. | [Gabriel Souza](https://github.com/GabrielMS00) |   |   |
+|`1.0` | 03/11/2024 | Criação do documento e adição dos lexicos. | [Gabriel Souza](https://github.com/GabrielMS00) | 03/11/2024  |  [Bianca Castro](https://github.com/BiancaPatrocinio7)  |

@@ -1,5 +1,7 @@
 # Understand
 
+## Introdução
+
 A fase de "Understand" serve para definir claramente o problema, alinhar as expectativas e explorar o contexto e as restrições do projeto. Essa etapa inicial é essencial para garantir que a equipe não apenas compreenda a complexidade do problema, mas também que possa abordar as suas causas e efeitos com profundidade. Muitas vezes, os desafios enfrentados em um projeto são multifacetados, e essa fase permite que a equipe evite soluções superficiais, direcionando o foco para o que realmente é importante.
 
 Além disso, o alinhamento de expectativas e visão entre todos os envolvidos na Design Sprint é um dos grandes benefícios dessa etapa. Quando todos têm uma compreensão comum sobre o problema e as metas, as chances de mal-entendidos e retrabalho diminuem ao longo do processo, tornando o trabalho mais eficiente e colaborativo.
@@ -23,7 +25,7 @@ Técnica definida em [How Might We](/Base/1.1.DesignSprint.md#How-Might-We)
 Após o brainstorming inicial, passamos para a técnica do "How Might We" (Como Poderíamos), uma abordagem definida em [How Might We](https://designsprintkit.withgoogle.com/methodology/phase1-understand/hmw-sharing-and-affinity-mapping). A escolha dessa técnica ajudou a transformar as ideias e problemas identificados anteriormente em desafios positivos, focando nas oportunidades em vez das limitações. Com essa abordagem, a equipe pôde reformular as questões levantadas de forma que estimulassem a busca por soluções práticas e criativas, mantendo o otimismo.
 
 <div style="text-align: center;">
-    <img src="/Base/designSprint/HMW.jpg"  width="1000px">
+    <img src="./Base/Assets/design_sprint/understand/HMW.jpg"  width="1000px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110) e [Hugo Queiroz](https://github.com/melohugo), 2024</p></font>
@@ -35,7 +37,7 @@ Técnica definida em [Definição do Problema](/Base/1.1.DesignSprint.md#framewo
 Com as ideias, problemáticas e oportunidades já mapeadas, a equipe usou o frameworkde definição do problema. Com esse framework, a equipe se concentrou em formular um problema central, identificando quem são as pessoas mais afetadas e analisando o impacto negativo que o problema gera em suas vidas. Por fim, foi definido os benefícios que uma solução eficaz poderia trazer.
 
 <div style="text-align: center;">
-    <img src="/Base/designSprint/definicao_do_problema.jpg"  width="750px">
+    <img src="./Base/Assets/design_sprint/understand/definicao_do_problema.jpg"  width="750px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110), [Hugo Queiroz](https://github.com/melohugo) e [Ricardo Augusto](https://github.com/avmricardo), 2024</p></font>
@@ -53,13 +55,13 @@ Com base nas informações levantadas no brainstorming e na definição do probl
 <br>
 
 <div style="text-align: center;">
-    <img src="/Base/designSprint/persona01.jpg"  width="850px">
+    <img src="./Base/Assets/design_sprint/understand/persona01.jpg"  width="850px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110) e [Hugo Queiroz](https://github.com/melohugo), 2024</p></font>
 
 <div style="text-align: center;">
-    <img src="/Base/designSprint/jornada01.jpg"  width="1250px">
+    <img src="./Base/Assets/design_sprint/understand/jornada01.jpg"  width="1250px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) e [Vitor Feijó](https://github.com/vitorfleonardo), 2024</p></font>
@@ -71,13 +73,13 @@ Com base nas informações levantadas no brainstorming e na definição do probl
 <br>
 
 <div style="text-align: center;">
-    <img src="/Base/designSprint/persona02.jpg"  width="850px">
+    <img src="./Base/Assets/design_sprint/understand/persona02.jpg"  width="850px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) e [Vitor Feijó](https://github.com/vitorfleonardo), 2024</p></font>
 
 <div style="text-align: center;">
-    <img src="/Base/designSprint/jornada02.jpg"  width="1250px">
+    <img src="./Base/Assets/design_sprint/understand/jornada02.jpg"  width="1250px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) e [Vitor Feijó](https://github.com/vitorfleonardo), 2024</p></font>
@@ -90,13 +92,13 @@ Com base nas informações levantadas no brainstorming e na definição do probl
 
 
 <div style="text-align: center;">
-    <img src="/Base/designSprint/persona03.jpg"  width="850px">
+    <img src="./Base/Assets/design_sprint/understand/persona03.jpg"  width="850px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110) e [Hugo Queiroz](https://github.com/melohugo), 2024</p></font>
 
 <div style="text-align: center;">
-    <img src="/Base/designSprint/jornada03.jpg"  width="1250px">
+    <img src="./Base/Assets/design_sprint/understand/jornada03.jpg"  width="1250px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) e [Vitor Feijó](https://github.com/vitorfleonardo), 2024</p></font>
@@ -109,13 +111,13 @@ Com base nas informações levantadas no brainstorming e na definição do probl
 
 
 <div style="text-align: center;">
-    <img src="/Base/designSprint/persona04.jpg"  width="850px">
+    <img src="./Base/Assets/design_sprint/understand/persona04.jpg"  width="850px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Ricardo Augusto](https://github.com/avmricardo), 2024</p></font>
 
 <div style="text-align: center;">
-    <img src="/Base/designSprint/jornada04.jpg"  width="1250px">
+    <img src="./Base/Assets/design_sprint/understand/jornada04.jpg"  width="1250px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) e [Vitor Feijó](https://github.com/vitorfleonardo), 2024</p></font>
@@ -146,11 +148,18 @@ Para finalizar a primeira etapa, a equipe criou o mapa de experiência. Essa té
 
 # Bibliografia
 
-> THIS PERSON DOES NOT EXIST. Disponível em: https://this-person-does-not-exist.com/pt.
+><a id="QT1" href="#anchor_1">1.</a> THIS PERSON DOES NOT EXIST. Disponível em: https://this-person-does-not-exist.com/pt.
+
+><a id="QT2" href="#anchor_2">2.</a>The problem of definitions. (n.d.). Disponível em: https://repositorio.ufc.br/bitstream/riufc/24396/1/2017_art_pjfloresjbneto.pdf
+
+><a id="QT3" href="#anchor_3">3.</a> PIOVESANA, L. O que é persona? Importância e como criar para a sua empresa. Nuvemshop. Brasil. 2024. Disponível em: [https://www.nuvemshop.com.br/blog/nuvemcast-persona-jtbd/](https://www.nuvemshop.com.br/blog/nuvemcast-persona-jtbd/). Acesso em 04 abr. 2024.
+
+><a id="QT4" href="#anchor_4">4.</a> NIELSEN NORMAN GROUP. Journey mapping 101. Disponível em: https://www.nngroup.com/articles/journey-mapping-101/.
 
 
-## Histórico de Versões
 
-|Versão|Data|Descrição|Autor(es)|Data de revisão|Revisor(es)|
-|:----:|:----:|:---------:|:-----:|:-----:|:-------:|
-|`1.0` | 02/11/2024 | Criação do documento e adição das técnicas. | [Hugo Queiroz](https://github.com/melohugo) |   |   |
+## Histórico de Versão
+| Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| `1.0` | 01/11/2024  | Versão inicial do artefato. | [Hugo Queiroz](https://github.com/melohugo) |03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
+| `1.1` | 03/11/2024  | Arrumando caminho das imagens, bibliografia e adicionando histórico| [Bianca Castro](https://github.com/BiancaPatrocinio7) | |   |
