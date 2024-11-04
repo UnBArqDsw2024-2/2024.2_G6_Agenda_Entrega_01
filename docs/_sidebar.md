@@ -17,6 +17,7 @@
         - [1.2.2. Mapa Mental](/Base/artefatos_generalistas/mapa-mental.md)
         - [1.2.2. Léxicos](/Base/artefatos_generalistas/lexico.md)
         - [1.2.3 Cenários](/Base/artefatos_generalistas/cenarios.md)
+        - [1.2.4 Matriz CSD](/Base/artefatos_generalistas/matriz-csd.md)
     - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
