@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](/Projeto/Home.md)
+- [Home](README.md)
 - [Projetos](/Projetos/Projetos.md)
 
 - **Base**
@@ -17,11 +17,15 @@
         - [1.2.2. Mapa Mental](/Base/artefatos_generalistas/mapa-mental.md)
         - [1.2.2. Léxicos](/Base/artefatos_generalistas/lexico.md)
         - [1.2.3 Cenários](/Base/artefatos_generalistas/cenarios.md)
+        - [1.2.4 Matriz CSD](/Base/artefatos_generalistas/matriz-csd.md)
     - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
       - [1.5.1 Termo de Abertura de Projeto](/Base/iniciativas_extras/tap.md)
       - [1.5.2 Heatmap de disponibildiade](/Base/iniciativas_extras/heatmap.md)
       - [1.5.3 Ferramentas](/Base/iniciativas_extras/ferramentas.md)
+<<<<<<< HEAD
       - [1.5.4.1 Atas de Reunião](/Base/iniciativas_extras/atas_reuniao/reuniao01.md)
       - [1.5.4.2 Atas de Reunião](/Base/iniciativas_extras/atas_reuniao/reuniao02.md)
+=======
+>>>>>>> e9b5607b36230721067e5a742615a97518048c0c
