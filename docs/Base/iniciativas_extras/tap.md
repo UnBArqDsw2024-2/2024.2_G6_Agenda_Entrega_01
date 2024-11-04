@@ -105,7 +105,6 @@ O semestre de 2024.2 tem início em 14 de outubro de 2024 e encerra-se 22 de fev
 
 > <a id="anchor_1">1.</a> PROJECT MANAGEMENT INSTITUTE (PMI). Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). 6 ed. Estados Unidos: PMI, 2017.
 
-
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
