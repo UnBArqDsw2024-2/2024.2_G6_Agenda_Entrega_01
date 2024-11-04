@@ -106,4 +106,4 @@ O semestre de 2024.2 tem início em 14 de outubro de 2024 e encerra-se 22 de fev
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 24/10/2024  | Versão inicial e preenchimento do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) |  |  |
+| `1.0` | 24/10/2024  | Versão inicial e preenchimento do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 04/11/2024  |  [João Barreto](https://github.com/JoaoBarreto03)  |

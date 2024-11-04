@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Rich Picture é uma técnica visual usada para representar sistemas complexos e suas interações de maneira intuitiva e não técnica. Ele captura a essência dos problemas e oportunidades em um cenário específico, ajudando a identificar os principais atores, processos e relacionamentos. Este artefato aborda a criação e a importância dos Rich Pictures na análise de requisitos de software.
+O Rich Picture é uma técnica visual utilizada para representar sistemas complexos e as interações entre seus componentes de forma intuitiva e acessível, sem necessidade de linguagem técnica. Ele captura a essência dos problemas e das oportunidades de um cenário específico, permitindo a visualização dos principais atores, processos e relacionamentos envolvidos. Esta técnica é especialmente útil na análise de requisitos de software, pois ajuda as equipes a compreenderem melhor o contexto do sistema, promovendo uma comunicação clara e uma compreensão compartilhada entre os envolvidos no projeto. Através de elementos visuais, o Rich Picture facilita a identificação de desafios, pontos críticos e potenciais soluções, servindo como uma base inicial para o desenvolvimento de soluções mais detalhadas e estruturadas.
 
-## Rich Pictures criados
+## Rich Pictures Criados
 
-Foram elaborados 2 rich pictures para o projeto da agenda, o presente na figura 1 possui foco no problema, enquanto o rich picture presente na figura 2 possui foco na solução do problema.
+Para o projeto da agenda, foram criados dois Rich Pictures. O primeiro, representado na Imagem 1, foca nos problemas existentes, oferecendo uma visão detalhada das dificuldades e dos pontos críticos do cenário atual. Já o segundo Rich Picture, presente na Imagem 2, tem como objetivo ilustrar a solução proposta, destacando as melhorias e mudanças que resolveriam os problemas identificados. Essa abordagem visual com foco tanto no problema quanto na solução permite uma análise abrangente e fornece uma base sólida para a definição dos requisitos do software.
 
 <p align="center" > <strong> Imagem 1:</Strong> Rich Picture 1</font> <gitbr></p>
 
@@ -36,3 +36,4 @@ Foram elaborados 2 rich pictures para o projeto da agenda, o presente na figura 
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 03/11/2024  | Criação do artefato. | [Ricardo Augusto](https://github.com/avmricardo) | 03/11/2024 | [Carlos Eduardo](https://github.com/CADU110), [Johnny](https://github.com/Johnnylopess) |
+| `1.1` | 03/11/2024  | Acrescentando textos. |  [Bianca Castro](https://github.com/BiancaPatrocinio7) | 03/11/2024 | [Johnny](https://github.com/Johnnylopess) |
