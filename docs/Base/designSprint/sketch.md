@@ -65,9 +65,9 @@ Para finalizar a fase do sketch a equipe usou o Crazy 8's como parte do processo
 
 
 ## Bibliografia
-><a id="QT1" href="#anchor_1">1.</a> TKnapp, J., Zeratsky, J., & Kowitz, B. (2016). Sprint: How to solve big problems and test new ideas in just five days. Simon & Schuster. Disponível em: https://www.thesprintbook.com/the-design-sprint
+><a>1.</a> TKnapp, J., Zeratsky, J., & Kowitz, B. (2016). Sprint: How to solve big problems and test new ideas in just five days. Simon & Schuster. Disponível em: https://www.thesprintbook.com/the-design-sprint
 
-><a id="QT2" href="#anchor_2">2.</a> Google. (n.d.). Phase 3: Sketch. Design Sprint Kit. Disponível em: https://designsprintkit.withgoogle.com/methodology/phase3-sketch
+><a>2.</a> Google. (n.d.). Phase 3: Sketch. Design Sprint Kit. Disponível em: https://designsprintkit.withgoogle.com/methodology/phase3-sketch
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
