@@ -16,12 +16,15 @@ Ao final da fase de Prototipação, a equipe terá um modelo tangível que poder
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/vzBUrkmoyP3GhnEIy4eBLN/Agenda-Online?node-id=2001-2&embed-host=share" allowfullscreen></iframe>
 
+<font size="3"><p style="text-align: center"><b>Autores:</b>  [Vitor Feijó](https://github.com/vitorfleonardo), [Hugo Queiroz](https://github.com/melohugo), [Carlos Alves](https://github.com/CADU110), 2024</p></font>
+
 ## Protótipo de alta
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/vzBUrkmoyP3GhnEIy4eBLN/Agenda-Online?node-id=7050-1143&node-type=canvas&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&embed-host=share" allowfullscreen></iframe>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/vzBUrkmoyP3GhnEIy4eBLN/Agenda-Online?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
+<font size="3"><p style="text-align: center"><b>Autores:</b>  [Paulo Borba](https://github.com/paulohborba), [Carlos Alves](https://github.com/CADU110) 2024</p></font>
 
 
 ## Histórico de Versão
@@ -29,4 +32,5 @@ Ao final da fase de Prototipação, a equipe terá um modelo tangível que poder
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 01/11/2024  | Versão inicial do artefato. | [Hugo Queiroz](https://github.com/melohugo) |03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
 | `1.1` | 03/11/2024  | Adicionando histórico| [Bianca Castro](https://github.com/BiancaPatrocinio7) | 03/11/2024 | [Hugo Queiroz](https://github.com/melohugo) |
-| `1.2` | 04/11/2024  | Adicionando o vídeo de validação| [Paulo Borba](https://github.com/paulohborba) | 04/11/2024 | [Hugo Queiroz](https://github.com/melohugo) |
+| `1.2` | 04/11/2024  | Adicionando o vídeo de validação | [Paulo Borba](https://github.com/paulohborba) | 04/11/2024 | [Hugo Queiroz](https://github.com/melohugo) |
+| `1.3` | 04/11/2024  | Adicionando os autores dos protótipos | [Vitor Feijó](https://github.com/vitorfleonardo) | 04/11/2024 | [Carlos Alves](https://github.com/CADU110) |

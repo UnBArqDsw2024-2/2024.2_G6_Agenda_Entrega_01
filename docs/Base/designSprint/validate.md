@@ -12,10 +12,13 @@ Os insights coletados nesta fase são fundamentais, pois ajudam a equipe a ident
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cibW5u6JTcA?si=PqNWuSURMGxqRB_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Paulo Borba](https://github.com/paulohborba), 2024</p></font>
 
 ## Histórico de Versão
+
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 01/11/2024  | Versão inicial do artefato. | [Hugo Queiroz](https://github.com/melohugo) |03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
 | `1.1` | 03/11/2024  | Arrumando caminho das imagens e adicionando histórico| [Bianca Castro](https://github.com/BiancaPatrocinio7) | 03/11/2024 | [Hugo Queiroz](https://github.com/melohugo) |
-| `1.2` | 04/11/2024  | Arrumando local do vídeo| [Carlos Alves](https://github.com/CADU110) | 04/11/2024 | [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) |
+| `1.2` | 04/11/2024  | Arrumando local do vídeo | [Carlos Alves](https://github.com/CADU110) | 04/11/2024 | [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) |
+| `1.3` | 04/11/2024  | Adicionando autor | [Vitor Feijó](https://github.com/vitorfleonardo)  | 04/11/2024 | [Carlos Alves](https://github.com/CADU110) |
