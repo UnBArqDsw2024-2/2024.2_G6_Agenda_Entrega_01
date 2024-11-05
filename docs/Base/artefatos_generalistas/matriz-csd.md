@@ -25,7 +25,7 @@ Esta Matriz CSD foi criada a partir das discussões e insights obtidos durante a
 </center>
 
 
-<font size="3"><p style="text-align: center"><b>Autor:</b>  [Vitor Feijó Leonardo](https://github.com/vitorfleonardo), 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autores:</b>  [Vitor Feijó Leonardo](https://github.com/vitorfleonardo) & [João Barreto](https://github.com/JoaoBarreto03), 2024</p></font>
 
 - **Certezas**: itens que a equipe considera fatos estabelecidos e que servirão como base para as decisões do projeto.
 - **Suposições**: hipóteses que precisam ser validadas ao longo do processo para garantir que o projeto esteja alinhado às expectativas.

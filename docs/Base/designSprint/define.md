@@ -151,4 +151,4 @@ Na segunda fase do Design Sprint, chamada "Definição", a equipe utilizou a té
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 01/11/2024  | Versão inicial do artefato. | [Hugo Queiroz](https://github.com/melohugo) |03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
 | `1.1` | 03/11/2024  | Arrumando caminho das imagens e adicionando histórico| [Bianca Castro](https://github.com/BiancaPatrocinio7) | 03/11/2024 | [Hugo Queiroz](https://github.com/melohugo) |
-| `1.2` | 04/11/2024  | Adicionado autores de requisitos| [Carlos Alves](https://github.com/CADU110) | |  |
+| `1.2` | 04/11/2024  | Adicionado autores de requisitos| [Carlos Alves](https://github.com/CADU110) | 04/11/2024 | [Vitor Feijó](https://github.com/vitorfleonardo) |

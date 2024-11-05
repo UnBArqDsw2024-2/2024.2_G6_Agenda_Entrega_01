@@ -10,7 +10,7 @@ Após a seleção, a equipe pode combinar elementos de diferentes esboços, cria
 
 Será uma agenda online que permite a criação de tarefas e a marcação de eventos, com visualização em dia, mês e ano, além da categorização dos mesmos. A plataforma também envia notificações antecipadas e permite integração com ferramentas de organização, além de possibilitar a marcação de eventos com outros usuários e a sincronização com os dispositivos de um usuário. Nosso diferencial será a criação de prioridades nas tarefas e a opção de visualização das atividades do dia em um kanban.Além de algumas funcionalidades serem personalizáveis, como ajustar notificações ou ativar/desativar recursos extras, com foco em uma interface clara, intuitiva e acessível para todos. Com suas funcionalidades bem definidas e fáceis de usar.
 
-# Rabisco Framework
+# Rabiscoframe
 
 <div style="text-align: center;">
     <img src="./Base/Assets/design_sprint/decide/rabisco.jpg"  width="850px">

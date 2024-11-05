@@ -30,6 +30,7 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 | **Restrições**      | Paulo deve se lembrar de verificar o cronograma semanalmente para fazer alterações.<br> A agenda deve ser fácil de usar para que ele possa ajustar o cronograma conforme necessário.                                                |
 | **Resultado Esperado** | Paulo consegue organizar seu cronograma de estudos de forma eficiente, visualizando suas tarefas e provas na semana e recebendo lembretes antecipados.                                                                          |
 
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Gabriel Moura](https://github.com/GabrielMS00)  e [Gabriel Souza](https://github.com/GabrielMS00), 2024</p></font>
 
 ### Cenário 2: Equilibrando Vida Acadêmica e Pessoal
 
@@ -43,6 +44,7 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 | **Restrições**      | O sistema deve permitir que Paulo defina eventos e tarefas como dependentes, garantindo que ele consiga dedicar tempo para seus hobbies sem prejudicar os estudos.<br> Paulo deve se lembrar de verificar o cronograma mensalmente para realizar alterações.                                                |
 | **Resultado Esperado** | Paulo consegue conciliar seus compromissos com a faculdade, as atividades esportivas e o tempo com sua família de forma equilibrada, utilizando a agenda para garantir a organização e lembretes.                                                                          |
 
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Gabriel Moura](https://github.com/GabrielMS00)  e [Gabriel Souza](https://github.com/GabrielMS00), 2024</p></font>
 
 **Persona 2: Ana Alice Costa (CEO de uma Startup)**
 
@@ -58,6 +60,7 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 | **Restrições**      | A agenda online deve permitir a criação de eventos e tarefas com links para outros aplicativos.<br> Ana Alice precisa se lembrar de verificar a lista de eventos para garantir que todos os membros da equipe estejam cientes das reuniões.                                                |
 | **Resultado Esperado** | Ana Alice consegue agendar uma reunião com sua equipe de forma eficiente, garantindo que todos os membros estejam cientes da data e hora do evento e com acesso ao link da sala de videoconferência.                                                                          |
 
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Gabriel Moura](https://github.com/GabrielMS00)  e [Gabriel Souza](https://github.com/GabrielMS00), 2024</p></font>
 
 ### Cenário 4: Priorizando Tarefas
 
@@ -71,7 +74,7 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 | **Restrições**      | A agenda online deve permitir a definição de prioridades para tarefas e eventos.<br> Ana Alice precisa se lembrar de verificar o cronograma semanalmente para fazer alterações.                                                    |
 | **Resultado Esperado** | Ana Alice consegue organizar suas tarefas e eventos de forma eficiente, definindo prioridades e garantindo que os compromissos e projetos mais importantes não sejam esquecidos.                                               |
 
-
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Gabriel Moura](https://github.com/GabrielMS00)  e [Gabriel Souza](https://github.com/GabrielMS00), 2024</p></font>
 
 **Persona 3: Eduardo Mendes (Advogado)**
 
@@ -87,6 +90,7 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 | **Restrições**      | Eduardo precisa se lembrar de verificar o cronograma semanalmente para fazer alterações.<br> A agenda deve permitir a edição de informações sobre o caso, incluindo dados sobre o cliente, como endereço, telefone e preferências. |
 | **Resultado Esperado** | Eduardo consegue organizar seu cronograma de trabalho de forma eficiente, garantindo que ele esteja presente em todas as audiências e reuniões com clientes, além de ter acesso a informações importantes.                       |
 
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Gabriel Moura](https://github.com/GabrielMS00)  e [Gabriel Souza](https://github.com/GabrielMS00), 2024</p></font>
 
 ### Cenário 6: Colaborando com a Equipe
 
@@ -99,6 +103,8 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 | **Episódios**       | 1. Eduardo faz login na plataforma da agenda online.<br> 2. Ele compartilha seu cronograma de audiências e reuniões com sua equipe.<br> 3. Os membros da equipe recebem uma notificação com o convite para visualização.<br> 4. Eduardo visualiza o cronograma da equipe para verificar eventos e compromissos de todos. |
 | **Restrições**      | A agenda online deve permitir o compartilhamento do cronograma com a equipe.<br> Eduardo precisa se lembrar de verificar as atualizações no cronograma da equipe.                                                                  |
 | **Resultado Esperado** | Eduardo consegue compartilhar seu cronograma de trabalho com sua equipe de forma eficiente, garantindo que todos estejam cientes de suas atividades e eventos.                                                                  |
+
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Gabriel Moura](https://github.com/GabrielMS00)  e [Gabriel Souza](https://github.com/GabrielMS00), 2024</p></font>
 
 **Persona 4: Juliana Pontes (Diarista)**
 
@@ -114,6 +120,7 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 | **Restrições**      | Juliana precisa se lembrar de verificar o cronograma semanalmente para fazer alterações e garantir que não tenha conflitos.<br> A agenda deve permitir a edição de informações sobre os clientes, incluindo endereço, telefone e observações sobre as preferências de cada um. |
 | **Resultado Esperado** | Juliana consegue organizar seu cronograma de trabalho de forma eficiente, evitando conflitos de horários e lembrando-se de todos os detalhes importantes de seus clientes.                                                     |
 
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Gabriel Moura](https://github.com/GabrielMS00)  e [Gabriel Souza](https://github.com/GabrielMS00), 2024</p></font>
 
 ### Cenário 8: Recebendo Lembretes
 
@@ -126,6 +133,8 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 | **Episódios**       | 1. Juliana faz login na plataforma da agenda online e configura as notificações.<br> 2. Ela configura a opção de receber lembretes por email um dia antes do compromisso.<br> 3. Juliana cria um novo evento chamado "Limpeza na casa do Sr. Carlos" com data e horário.<br> 4. Ela configura um lembrete para "Limpeza na casa do Sr. Carlos" um dia antes da data.<br> 5. Juliana salva o cronograma.<br> 6. No dia anterior ao compromisso, Juliana recebe um email com o lembrete sobre o evento "Limpeza na casa do Sr. Carlos". |
 | **Restrições**      | O sistema deve permitir a personalização das notificações, com opções de escolha de canal (email, notificação no aplicativo) e tempo de antecedência.<br> Juliana precisa se lembrar de configurar as notificações de acordo com suas preferências e verificar o cronograma para confirmar os eventos. |
 | **Resultado Esperado** | Juliana consegue receber lembretes sobre seus compromissos e evitar esquecimentos e atrasos.                                                                                                                                    |
+
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Gabriel Moura](https://github.com/GabrielMS00)  e [Gabriel Souza](https://github.com/GabrielMS00), 2024</p></font>
 
 ## Recursos e Funcionalidades Extras:
 
@@ -149,3 +158,4 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 |:----:|:----:|:---------:|:-----:|:-----:|:-------:|
 |`1.0` | 03/11/2024 | Criação do documento | [Gabriel Moura](https://github.com/thegm445) | 03/11/2024  |  [Bianca Castro](https://github.com/BiancaPatrocinio7)  |
 |`1.1` | 03/11/2024 | Adição de informação e padronização da estrutura | [Gabriel Souza](https://github.com/GabrielMS00) | 03/11/2024 | [Hugo Queiroz](https://github.com/melohugo) |
+|`1.2` | 04/11/2024 | Adição dos autores no cenários| [Vitor Feijó](https://github.com/vitorfleonardo) | 04/11/2024 |  [Carlos Eduardo](https://github.com/CADU10) |
