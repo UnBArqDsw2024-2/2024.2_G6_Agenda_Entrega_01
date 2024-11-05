@@ -67,13 +67,10 @@
 - O código de conduta, nomenclatura de branch, README, contributing,  reuniões e atas, glossário e ferramentas devem ser cuidadosamente elaborados.
 - A equipe deverá realizar as ações definidas com a máxima atenção e dentro do prazo estabelecido.
 
-## Próximos Passos
-
 - Reunião para discutir o progresso das tarefas na próxima segunda-feira.
 - A equipe deverá se comunicar ativamente através do chat e manter a equipe informada sobre o andamento das tarefas.
 
 ## Histórico de Versão
-
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 03/11/2024 | Versão inicial e preenchimento do artefato. | [Gabriel Moura](https://github.com/thegm445) | 03/11/2024 | [Vitor Feijó](https://github.com/vitorfleonardo) |
+| `1.0` | 03/11/2024 | Versão inicial e preenchimento do artefato. | [Gabriel Moura](https://github.com/GabrielMS00) |  04/11/2024  |  [João Barreto](https://github.com/JoaoBarreto03)  |

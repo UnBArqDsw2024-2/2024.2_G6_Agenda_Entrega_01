@@ -41,4 +41,4 @@
 
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 03/11/2024 | Versão inicial e preenchimento do artefato. | [Gabriel Moura](https://github.com/thegm445) | 03/11/2024 | [Vitor Feijó](https://github.com/vitorfleonardo) |
+| `1.0` | 03/11/2024 | Versão inicial e preenchimento do artefato. | [Gabriel Moura](https://github.com/GabrielMS00) |  04/11/2024  |  [João Barreto](https://github.com/JoaoBarreto03)  |

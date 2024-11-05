@@ -143,8 +143,18 @@ Para finalizar a primeira etapa, a equipe criou o mapa de experiência. Essa té
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Hugo Queiroz](https://github.com/melohugo), 2024</p></font>
 
-## Bibliografia
+Na primeira etapa do Design Sprint, chamada "Compreensão", a equipe focou em entender o problema profundamente. Para apoiar essa análise, foram usados o Rich Picture, que facilita a visualização do contexto e dos envolvidos, e o Diagrama de Causa e Efeito, que ajuda a organizar as causas do problema.
 
+O [Rich Picture](/Base/artefatos_generalistas/rich-picture.md) é um recurso visual que permite capturar de forma livre e intuitiva todos os elementos e interações relevantes ao problema. Ele inclui aspectos como stakeholders, processos e contextos específicos, formando um "mapa" que destaca as relações e complexidades do cenário. Esse artefato facilita a comunicação de ideias complexas de maneira visual, permitindo que a equipe enxergue o problema como um todo e identifique possíveis pontos de atenção.
+
+Além disso, foi utilizado o [Diagrama de Causa e Efeito](/Base/artefatos_generalistas/driagrama-ishikawa.md#Diagrama-da-Agenda), também conhecido como Diagrama de Ishikawa ou Espinha de Peixe, que ajuda a identificar e organizar as causas de um problema em categorias principais, facilitando a análise de suas origens. Com isso, a equipe conseguiu explorar as raízes do problema de forma estruturada, observando como diferentes fatores se relacionam e contribuem para os desafios enfrentados.
+
+# Bibliografia
+
+><a id="QT1" href="#anchor_1">1.</a> THIS PERSON DOES NOT EXIST. Disponível em: https://this-person-does-not-exist.com/pt.
+><a id="QT2" href="#anchor_2">2.</a>The problem of definitions. (n.d.). Disponível em: https://repositorio.ufc.br/bitstream/riufc/24396/1/2017_art_pjfloresjbneto.pdf
+><a id="QT3" href="#anchor_3">3.</a> PIOVESANA, L. O que é persona? Importância e como criar para a sua empresa. Nuvemshop. Brasil. 2024. Disponível em: [https://www.nuvemshop.com.br/blog/nuvemcast-persona-jtbd/](https://www.nuvemshop.com.br/blog/nuvemcast-persona-jtbd/). Acesso em 04 abr. 2024.
+><a id="QT4" href="#anchor_4">4.</a> NIELSEN NORMAN GROUP. Journey mapping 101. Disponível em: https://www.nngroup.com/articles/journey-mapping-101/.
 ><a>1.</a> THIS PERSON DOES NOT EXIST. Disponível em: [https://this-person-does-not-exist.com/pt](https://this-person-does-not-exist.com/pt). <br />
 ><a>2.</a>The problem of definitions. (n.d.). Disponível em: [https://repositorio.ufc.br/bitstream/riufc/24396/1/2017_art_pjfloresjbneto.pdf](https://repositorio.ufc.br/bitstream/riufc/24396/1/2017_art_pjfloresjbneto.pdf) <br />
 ><a>3.</a> PIOVESANA, L. O que é persona? Importância e como criar para a sua empresa. Nuvemshop. Brasil. 2024. Disponível em: [https://www.nuvemshop.com.br/blog/ nuvemcast-persona-jtbd/](https://www.nuvemshop.com.br/blog/nuvemcast-persona-jtbd/). Acesso em 04 abr. 2024. <br />
@@ -155,4 +165,4 @@ Para finalizar a primeira etapa, a equipe criou o mapa de experiência. Essa té
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 01/11/2024  | Versão inicial do artefato. | [Hugo Queiroz](https://github.com/melohugo) |03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
-| `1.1` | 03/11/2024  | Arrumando caminho das imagens, bibliografia e adicionando histórico| [Bianca Castro](https://github.com/BiancaPatrocinio7) | |   |
+| `1.1` | 03/11/2024  | Arrumando caminho das imagens, bibliografia e adicionando histórico| [Bianca Castro](https://github.com/BiancaPatrocinio7) | 03/11/2024 | [Hugo Queiroz](https://github.com/melohugo) |

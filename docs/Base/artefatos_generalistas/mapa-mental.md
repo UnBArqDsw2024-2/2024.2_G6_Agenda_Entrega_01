@@ -34,4 +34,4 @@ Este mapa mental foi criado a partir das ideias geradas no brainstorming realiza
 
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 01/11/2024  | Criação do mapa mental. | [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) |  |  |
+| `1.0` | 01/11/2024  | Criação do artefato no Miro. | [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) | 04/11/2024 | [Johnny Lopes](https://github.com/JohnnyLopess)  |

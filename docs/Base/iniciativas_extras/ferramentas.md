@@ -46,4 +46,4 @@ Nesta seção, destacamos a seleção de ferramentas realizada pelo nosso grupo 
 
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 03/11/2024 | Versão inicial e preenchimento do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) |  |  |
+| `1.0` | 03/11/2024 | Versão inicial e preenchimento do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) |  04/11/2024  |  [João Barreto](https://github.com/JoaoBarreto03)  |

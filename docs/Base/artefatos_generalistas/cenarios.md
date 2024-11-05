@@ -138,7 +138,11 @@ Os cenários foram elaborados seguindo as seguintes etapas:
 
 ## Histórico de Versões
 
+## Bibliografia
+> </a> Requisitos de Software. Bilheteria Digital (2023.1). Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital). Acesso em: 15 mai. 2024.
+
+
 |Versão|Data|Descrição|Autor(es)|Data de revisão|Revisor(es)|
 |:----:|:----:|:---------:|:-----:|:-----:|:-------:|
 |`1.0` | 03/11/2024 | Criação do documento | [Gabriel Moura](https://github.com/thegm445) | 03/11/2024  |  [Bianca Castro](https://github.com/BiancaPatrocinio7)  |
-|`1.1` | 03/11/2024 | Adição de informação e padronização da estrutura | [Gabriel Souza](https://github.com/GabrielMS00) |   |   |
+|`1.1` | 03/11/2024 | Adição de informação e padronização da estrutura | [Gabriel Souza](https://github.com/GabrielMS00) | 03/11/2024 | [Hugo Queiroz](https://github.com/melohugo) |

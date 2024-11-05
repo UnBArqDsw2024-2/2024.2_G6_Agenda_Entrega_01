@@ -27,7 +27,11 @@ Técnica definida em [Crazy 8's](/Base/1.1.DesignSprint.md#crazy-839s)
 Para finalizar a fase do sketch a equipe usou o Crazy 8's como parte do processo de esboço, que consiste em gerar rapidamente uma variedade de ideias para soluções. Durante essa atividade, cada membro teve apenas oito minutos para criar oito esboços diferentes, incentivando a criatividade e a experimentação sem o medo do julgamento. Essa técnica é especialmente eficaz para romper barreiras mentais e estimular a geração de ideias inovadoras, pois obriga os participantes a pensar rapidamente e fora da caixa. Ao final da atividade, a diversidade de esboços resultantes permitiu à equipe explorar uma ampla gama de possibilidades antes de convergir para as soluções mais promissoras, enriquecendo o processo de design e aumentando as chances de criar uma solução eficaz e impactante.
 
 <div style="text-align: center;">
-    <img src="../Assets/design_sprint/sketch/crazy01.png" alt="imagem"  width="850px">
+    <img src="./Base/Assets/design_sprint/understand/crazy8-aplicacao.jpeg"  width="850px">
+</div>
+
+<div style="text-align: center;">
+    <img src="./Base/Assets/design_sprint/sketch/crazy01.png"  width="850px">
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Vitor Feijó](https://github.com/vitorfleonardo), 2024</p></font>
@@ -72,4 +76,4 @@ Para finalizar a fase do sketch a equipe usou o Crazy 8's como parte do processo
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 01/11/2024  | Versão inicial do artefato. | [Hugo Queiroz](https://github.com/melohugo) |03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
-| `1.1` | 03/11/2024  | Arrumando caminho das imagens, bibliografia e adicionando histórico | [Bianca Castro](https://github.com/BiancaPatrocinio7) | |   |
+| `1.1` | 03/11/2024  | Arrumando caminho das imagens, bibliografia e adicionando histórico | [Bianca Castro](https://github.com/BiancaPatrocinio7) | 03/11/2024 | [Hugo Queiroz](https://github.com/melohugo) |
