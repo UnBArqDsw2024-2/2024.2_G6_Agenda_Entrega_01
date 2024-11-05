@@ -18,4 +18,4 @@ Os insights coletados nesta fase são fundamentais, pois ajudam a equipe a ident
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 01/11/2024  | Versão inicial do artefato. | [Hugo Queiroz](https://github.com/melohugo) |03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
 | `1.1` | 03/11/2024  | Arrumando caminho das imagens e adicionando histórico| [Bianca Castro](https://github.com/BiancaPatrocinio7) | 03/11/2024 | [Hugo Queiroz](https://github.com/melohugo) |
-| `1.2` | 04/11/2024  | Arrumando local do vídeo| [Carlos Alves](https://github.com/CADU110) |  | |
+| `1.2` | 04/11/2024  | Arrumando local do vídeo| [Carlos Alves](https://github.com/CADU110) | 04/11/2024 | [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) |
