@@ -16,7 +16,7 @@ Para o projeto da agenda, foram criados dois Rich Pictures. O primeiro, represen
 </div>
 </center>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110), 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Eduardo](https://github.com/CADU110) e [Paulo Borba](https://github.com/paulohborba), 2024</p></font>
 
 <p align="center" > <strong> Imagem 2:</Strong> Complementação digital do Rich Picture 1</font> <gitbr></p>
 

@@ -8,9 +8,14 @@ Durante essa fase, os participantes conduzem sessões de teste, onde os usuário
 
 Os insights coletados nesta fase são fundamentais, pois ajudam a equipe a identificar melhorias e ajustes necessários antes de seguir para o desenvolvimento final do produto. A validação não apenas confirma a eficácia das soluções propostas, mas também fortalece a confiança da equipe nas decisões tomadas durante o Design Sprint.
 
+## Validação do Protótipo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cibW5u6JTcA?si=PqNWuSURMGxqRB_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 01/11/2024  | Versão inicial do artefato. | [Hugo Queiroz](https://github.com/melohugo) |03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
 | `1.1` | 03/11/2024  | Arrumando caminho das imagens e adicionando histórico| [Bianca Castro](https://github.com/BiancaPatrocinio7) | 03/11/2024 | [Hugo Queiroz](https://github.com/melohugo) |
+| `1.2` | 04/11/2024  | Arrumando local do vídeo| [Carlos Alves](https://github.com/CADU110) | 04/11/2024 | [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) |
